@@ -14,10 +14,10 @@ def delete_nest_label(sentences, open_label='<BEGIN_E>', close_label='<END_E>'):
                 brace.pop()
                 if len(brace): insert_letter = False # 嵌套的情况
             except IndexError:
-                return sentences                     # 只有)的情况
+                return sentences                     # 只有)的情况，异常不处理
 
-        if insert_letter:
-            ret += letter
+        if insert_letter: ret += letter
+    # 最后将数字替换回开闭标签
     ret = ret.replace(chr(2), open_label).replace(chr(3), close_label)
     return ret
 
