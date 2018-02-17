@@ -1,0 +1,97 @@
+,Year,StateCode,MSN,ratio,Description
+0,1960,AZ,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+1,1960,AZ,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+2,1960,AZ,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+3,1960,AZ,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+4,1960,CA,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+5,1960,CA,NUEGB,0.0002725988822222203,Electricity produced from nuclear power by the electric power sector.
+6,1960,CA,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+7,1960,CA,HYEGB,99.99972740111778,Hydroelectricity produced by the electric power sector.
+8,1960,NM,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+9,1960,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+10,1960,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+11,1960,NM,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+12,1960,TX,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+13,1960,TX,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+14,1960,TX,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+15,1960,TX,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+16,1970,AZ,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+17,1970,AZ,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+18,1970,AZ,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+19,1970,AZ,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+20,1970,CA,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+21,1970,CA,NUEGB,7.920534454869088,Electricity produced from nuclear power by the electric power sector.
+22,1970,CA,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+23,1970,CA,HYEGB,92.07946554513092,Hydroelectricity produced by the electric power sector.
+24,1970,NM,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+25,1970,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+26,1970,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+27,1970,NM,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+28,1970,TX,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+29,1970,TX,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+30,1970,TX,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+31,1970,TX,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+32,1980,AZ,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+33,1980,AZ,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+34,1980,AZ,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+35,1980,AZ,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+36,1980,CA,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+37,1980,CA,NUEGB,11.243833606622236,Electricity produced from nuclear power by the electric power sector.
+38,1980,CA,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+39,1980,CA,HYEGB,88.75616639337777,Hydroelectricity produced by the electric power sector.
+40,1980,NM,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+41,1980,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+42,1980,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+43,1980,NM,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+44,1980,TX,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+45,1980,TX,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+46,1980,TX,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+47,1980,TX,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+48,1990,AZ,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+49,1990,AZ,NUEGB,73.85571774643635,Electricity produced from nuclear power by the electric power sector.
+50,1990,AZ,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+51,1990,AZ,HYEGB,26.14428225356365,Hydroelectricity produced by the electric power sector.
+52,1990,CA,WYEGB,4.585202721629396,Electricity produced from wind energy by the electric power sector.
+53,1990,CA,NUEGB,55.27499242241277,Electricity produced from nuclear power by the electric power sector.
+54,1990,CA,SOEGB,0.6093945746173092,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+55,1990,CA,HYEGB,39.53041028134051,Hydroelectricity produced by the electric power sector.
+56,1990,NM,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+57,1990,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+58,1990,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+59,1990,NM,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+60,1990,TX,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+61,1990,TX,NUEGB,89.993084661016,Electricity produced from nuclear power by the electric power sector.
+62,1990,TX,SOEGB,0.0021475144539377373,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+63,1990,TX,HYEGB,10.004767824530065,Hydroelectricity produced by the electric power sector.
+64,2000,AZ,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+65,2000,AZ,NUEGB,78.80383849183706,Electricity produced from nuclear power by the electric power sector.
+66,2000,AZ,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+67,2000,AZ,HYEGB,21.196161508162938,Hydroelectricity produced by the electric power sector.
+68,2000,CA,WYEGB,4.493072881588422,Electricity produced from wind energy by the electric power sector.
+69,2000,CA,NUEGB,45.92879485935479,Electricity produced from nuclear power by the electric power sector.
+70,2000,CA,SOEGB,0.6300656975207444,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+71,2000,CA,HYEGB,48.94806656153604,Hydroelectricity produced by the electric power sector.
+72,2000,NM,WYEGB,0.0,Electricity produced from wind energy by the electric power sector.
+73,2000,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+74,2000,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+75,2000,NM,HYEGB,100.0,Hydroelectricity produced by the electric power sector.
+76,2000,TX,WYEGB,1.2391519061348883,Electricity produced from wind energy by the electric power sector.
+77,2000,TX,NUEGB,96.67353683767472,Electricity produced from nuclear power by the electric power sector.
+78,2000,TX,SOEGB,0.00010323177804448179,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+79,2000,TX,HYEGB,2.087208024412354,Hydroelectricity produced by the electric power sector.
+80,2009,AZ,WYEGB,0.07511696425113762,Electricity produced from wind energy by the electric power sector.
+81,2009,AZ,NUEGB,83.54765595657945,Electricity produced from nuclear power by the electric power sector.
+82,2009,AZ,SOEGB,0.03596308882492272,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+83,2009,AZ,HYEGB,16.341263990344494,Hydroelectricity produced by the electric power sector.
+84,2009,CA,WYEGB,8.53563530232798,Electricity produced from wind energy by the electric power sector.
+85,2009,CA,NUEGB,49.756665383736006,Electricity produced from nuclear power by the electric power sector.
+86,2009,CA,SOEGB,0.9462427923080796,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+87,2009,CA,HYEGB,40.761456521627935,Hydroelectricity produced by the electric power sector.
+88,2009,NM,WYEGB,85.09292884725099,Electricity produced from wind energy by the electric power sector.
+89,2009,NM,NUEGB,0.0,Electricity produced from nuclear power by the electric power sector.
+90,2009,NM,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+91,2009,NM,HYEGB,14.907071152749024,Hydroelectricity produced by the electric power sector.
+92,2009,TX,WYEGB,30.560839890948614,Electricity produced from wind energy by the electric power sector.
+93,2009,TX,NUEGB,67.86937735845827,Electricity produced from nuclear power by the electric power sector.
+94,2009,TX,SOEGB,0.0,Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+95,2009,TX,HYEGB,1.5697827505931232,Hydroelectricity produced by the electric power sector.

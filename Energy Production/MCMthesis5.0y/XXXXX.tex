@@ -1,0 +1,53 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[83859]{MCMthesis}\problem{C}    %填写控制号、题号，年份不需要填（自动以当前电脑时间年份为准）
+\usepackage{palatino} %这个是COMAP官方杂志的字体，如不需要可注释掉（以使用默认字体）
+\usepackage{pgfplotstable, filecontents}
+
+%设置图表标题与上下文的间距
+\setlength{\belowcaptionskip}{4pt}
+\setlength{\abovecaptionskip}{4pt}
+
+%目录显示自定义
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{tocdepth}{2}    %目录显示到subsection(2),若要到subsubsection(3)请自改
+
+\usepackage[font=small,]{caption}   %使图表标题字号小一号
+\def\abstractname{Summary}  %摘要标题
+\title{Energy Data Analysis and Interstate Agreement Goals for Four States}  %标题
+
+\begin{document}
+
+%----------以下是摘要部分----------
+\begin{abstract}\small
+There exists no doubt in the significance of energy to the development of economy and society. In order to better cooperate with other states on energy issues, our team was tasked with setting a series of goals for the interstate new energy compact.
+
+ In the first part, we preprocessed the data. We did data screening according to the integrity and redundancy of the information, selecting nine energy consumption indicators as main focuses for analysises. For a more intuitive sense, we plotted a graph that illustrates the changes of  energy consumption and proportion over time, from which we examined general trends of energy profile.
+
+  Second, since both the overall average growth trend and the differences between individual development trend are needed, we built a double-layer model to achieve a longitudinal analysis of data. As a result, we obtained the characteristics of cleaner and renewable energy usage of each state.
+
+  Third, we constructed a cleaner, renewable energy evaluation index, which is the weighted sum of three indicators. The three are GDP, the proportion and the average growth of cleaner and renewable energy. The higher the value of this index, the higher the performance of renewable energy usage. The results showed that Arizona's index was the highest in 2009.
+
+Next, we established a linear regression to predict the energy profile in 2025 and 2050. According to the value of the coefficient of determination, the degree of fitting of the last 50 years and the forecasts are credible without any policy changes by each governor's office.
+
+Finally, we sorted and analyzed the result of the fourth problem, obtaining the goal of renewable energy through the best criterion.
+\end{abstract}
+
+%---------以下生成sheet页----------
+%\renewcommand{\baselinestretch}{0.6}\normalsize    %该语句可调整行距（数值为标准行距之倍数），对其后到再次修改前的部分有效，请自行使用
+\maketitle  %生成sheet页
+\pagestyle{empty}
+
+%---------以下生成目录----------
+\newpage
+\tableofcontents
+\newpage
+
+%---------以下生成正文----------
+\pagestyle{fancy}
+\setlength\parskip{0.8\baselineskip}  %调整段间距
+\setcounter{page}{1}    %从正文开始计页码
+\input{body.tex}    %正文及Reference内容均在body.tex中修改
+
+\end{document}

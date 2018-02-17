@@ -1,0 +1,1401 @@
+,Year,StateCode,MSN,ratio,Description
+0,1960,AZ,CLTCB,0.07879601687737173,Coal total consumption.
+1,1960,AZ,BMTCB,1.508757217474257,Biomass total consumption
+2,1960,AZ,GETCB,0.0,Geothermal energy total consumption.
+3,1960,AZ,NGTCB,52.739349402153955,Natural gas total consumption (including supplemental gaseous fuels).
+4,1960,AZ,PMTCB,45.67309736349442,All petroleum products total consumption excluding fuel ethanol.
+5,1960,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+6,1960,AZ,NUETB,0.0,Electricity produced from nuclear power.
+7,1960,CA,CLTCB,1.1017084906187407,Coal total consumption.
+8,1960,CA,BMTCB,2.519215058627911,Biomass total consumption
+9,1960,CA,GETCB,0.01101736145742653,Geothermal energy total consumption.
+10,1960,CA,NGTCB,39.947363905568054,Natural gas total consumption (including supplemental gaseous fuels).
+11,1960,CA,PMTCB,56.42067948250089,All petroleum products total consumption excluding fuel ethanol.
+12,1960,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+13,1960,CA,NUETB,1.5701226980082e-05,Electricity produced from nuclear power.
+14,1960,NM,CLTCB,1.2498530749511207,Coal total consumption.
+15,1960,NM,BMTCB,2.0380216794630477,Biomass total consumption
+16,1960,NM,GETCB,0.0,Geothermal energy total consumption.
+17,1960,NM,NGTCB,63.746169964615376,Natural gas total consumption (including supplemental gaseous fuels).
+18,1960,NM,PMTCB,32.96595528097046,All petroleum products total consumption excluding fuel ethanol.
+19,1960,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+20,1960,NM,NUETB,0.0,Electricity produced from nuclear power.
+21,1960,TX,CLTCB,0.563646028577461,Coal total consumption.
+22,1960,TX,BMTCB,0.8643389657174736,Biomass total consumption
+23,1960,TX,GETCB,0.0,Geothermal energy total consumption.
+24,1960,TX,NGTCB,63.544779307649065,Natural gas total consumption (including supplemental gaseous fuels).
+25,1960,TX,PMTCB,35.02723569805599,All petroleum products total consumption excluding fuel ethanol.
+26,1960,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+27,1960,TX,NUETB,0.0,Electricity produced from nuclear power.
+28,1961,AZ,CLTCB,0.07263208036922525,Coal total consumption.
+29,1961,AZ,BMTCB,1.322862758215271,Biomass total consumption
+30,1961,AZ,GETCB,0.0,Geothermal energy total consumption.
+31,1961,AZ,NGTCB,54.8501903064838,Natural gas total consumption (including supplemental gaseous fuels).
+32,1961,AZ,PMTCB,43.7543148549317,All petroleum products total consumption excluding fuel ethanol.
+33,1961,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+34,1961,AZ,NUETB,0.0,Electricity produced from nuclear power.
+35,1961,CA,CLTCB,1.7189094134283531,Coal total consumption.
+36,1961,CA,BMTCB,2.4284902896331313,Biomass total consumption
+37,1961,CA,GETCB,0.029120082268570473,Geothermal energy total consumption.
+38,1961,CA,NGTCB,40.7192803548614,Natural gas total consumption (including supplemental gaseous fuels).
+39,1961,CA,PMTCB,55.10259244364095,All petroleum products total consumption excluding fuel ethanol.
+40,1961,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+41,1961,CA,NUETB,0.0016074161675908476,Electricity produced from nuclear power.
+42,1961,NM,CLTCB,0.9819827775920207,Coal total consumption.
+43,1961,NM,BMTCB,1.897938885790939,Biomass total consumption
+44,1961,NM,GETCB,0.0,Geothermal energy total consumption.
+45,1961,NM,NGTCB,65.10073802017915,Natural gas total consumption (including supplemental gaseous fuels).
+46,1961,NM,PMTCB,32.01934031643788,All petroleum products total consumption excluding fuel ethanol.
+47,1961,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+48,1961,NM,NUETB,0.0,Electricity produced from nuclear power.
+49,1961,TX,CLTCB,0.4080246039444931,Coal total consumption.
+50,1961,TX,BMTCB,0.8714917854056836,Biomass total consumption
+51,1961,TX,GETCB,0.0,Geothermal energy total consumption.
+52,1961,TX,NGTCB,63.47868538530462,Natural gas total consumption (including supplemental gaseous fuels).
+53,1961,TX,PMTCB,35.24179822534519,All petroleum products total consumption excluding fuel ethanol.
+54,1961,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+55,1961,TX,NUETB,0.0,Electricity produced from nuclear power.
+56,1962,AZ,CLTCB,2.0336875582193095,Coal total consumption.
+57,1962,AZ,BMTCB,1.1870899160727602,Biomass total consumption
+58,1962,AZ,GETCB,0.0,Geothermal energy total consumption.
+59,1962,AZ,NGTCB,52.841963572189435,Natural gas total consumption (including supplemental gaseous fuels).
+60,1962,AZ,PMTCB,43.9372589535185,All petroleum products total consumption excluding fuel ethanol.
+61,1962,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+62,1962,AZ,NUETB,0.0,Electricity produced from nuclear power.
+63,1962,CA,CLTCB,1.1361837344431782,Coal total consumption.
+64,1962,CA,BMTCB,2.488134422058972,Biomass total consumption
+65,1962,CA,GETCB,0.03037031338819448,Geothermal energy total consumption.
+66,1962,CA,NGTCB,42.47474904379633,Natural gas total consumption (including supplemental gaseous fuels).
+67,1962,CA,PMTCB,53.868161755705636,All petroleum products total consumption excluding fuel ethanol.
+68,1962,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+69,1962,CA,NUETB,0.002400730607693846,Electricity produced from nuclear power.
+70,1962,NM,CLTCB,0.6606207924909506,Coal total consumption.
+71,1962,NM,BMTCB,1.6495285102426052,Biomass total consumption
+72,1962,NM,GETCB,0.0,Geothermal energy total consumption.
+73,1962,NM,NGTCB,66.60660517077017,Natural gas total consumption (including supplemental gaseous fuels).
+74,1962,NM,PMTCB,31.083245526496285,All petroleum products total consumption excluding fuel ethanol.
+75,1962,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+76,1962,NM,NUETB,0.0,Electricity produced from nuclear power.
+77,1962,TX,CLTCB,0.44062517337104584,Coal total consumption.
+78,1962,TX,BMTCB,0.8408071358265568,Biomass total consumption
+79,1962,TX,GETCB,0.0,Geothermal energy total consumption.
+80,1962,TX,NGTCB,63.35873568866906,Natural gas total consumption (including supplemental gaseous fuels).
+81,1962,TX,PMTCB,35.35983200213334,All petroleum products total consumption excluding fuel ethanol.
+82,1962,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+83,1962,TX,NUETB,0.0,Electricity produced from nuclear power.
+84,1963,AZ,CLTCB,2.5832491710387764,Coal total consumption.
+85,1963,AZ,BMTCB,1.2338817397051596,Biomass total consumption
+86,1963,AZ,GETCB,0.0,Geothermal energy total consumption.
+87,1963,AZ,NGTCB,51.938363295911394,Natural gas total consumption (including supplemental gaseous fuels).
+88,1963,AZ,PMTCB,44.24450579334467,All petroleum products total consumption excluding fuel ethanol.
+89,1963,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+90,1963,AZ,NUETB,0.0,Electricity produced from nuclear power.
+91,1963,CA,CLTCB,1.2498516790383836,Coal total consumption.
+92,1963,CA,BMTCB,2.5204847800196255,Biomass total consumption
+93,1963,CA,GETCB,0.04770149844744674,Geothermal energy total consumption.
+94,1963,CA,NGTCB,43.986305139998564,Natural gas total consumption (including supplemental gaseous fuels).
+95,1963,CA,PMTCB,52.13367267705574,All petroleum products total consumption excluding fuel ethanol.
+96,1963,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+97,1963,CA,NUETB,0.061984225440246885,Electricity produced from nuclear power.
+98,1963,NM,CLTCB,4.146682050694701,Coal total consumption.
+99,1963,NM,BMTCB,1.581364006693207,Biomass total consumption
+100,1963,NM,GETCB,0.0,Geothermal energy total consumption.
+101,1963,NM,NGTCB,63.102706487184335,Natural gas total consumption (including supplemental gaseous fuels).
+102,1963,NM,PMTCB,31.16924745542777,All petroleum products total consumption excluding fuel ethanol.
+103,1963,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+104,1963,NM,NUETB,0.0,Electricity produced from nuclear power.
+105,1963,TX,CLTCB,0.39474221093625744,Coal total consumption.
+106,1963,TX,BMTCB,0.7763611805185036,Biomass total consumption
+107,1963,TX,GETCB,0.0,Geothermal energy total consumption.
+108,1963,TX,NGTCB,62.67943240531446,Natural gas total consumption (including supplemental gaseous fuels).
+109,1963,TX,PMTCB,36.14946420323078,All petroleum products total consumption excluding fuel ethanol.
+110,1963,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+111,1963,TX,NUETB,0.0,Electricity produced from nuclear power.
+112,1964,AZ,CLTCB,2.713410502650814,Coal total consumption.
+113,1964,AZ,BMTCB,1.2189109313641218,Biomass total consumption
+114,1964,AZ,GETCB,0.0,Geothermal energy total consumption.
+115,1964,AZ,NGTCB,52.052968505529705,Natural gas total consumption (including supplemental gaseous fuels).
+116,1964,AZ,PMTCB,44.01471006045536,All petroleum products total consumption excluding fuel ethanol.
+117,1964,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+118,1964,AZ,NUETB,0.0,Electricity produced from nuclear power.
+119,1964,CA,CLTCB,1.3389433322771298,Coal total consumption.
+120,1964,CA,BMTCB,2.453347779879073,Biomass total consumption
+121,1964,CA,GETCB,0.053137808408701824,Geothermal energy total consumption.
+122,1964,CA,NGTCB,45.291465219201626,Natural gas total consumption (including supplemental gaseous fuels).
+123,1964,CA,PMTCB,50.75421844809913,All petroleum products total consumption excluding fuel ethanol.
+124,1964,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+125,1964,CA,NUETB,0.10888741213434211,Electricity produced from nuclear power.
+126,1964,NM,CLTCB,8.005148813220169,Coal total consumption.
+127,1964,NM,BMTCB,1.5873878325196253,Biomass total consumption
+128,1964,NM,GETCB,0.0,Geothermal energy total consumption.
+129,1964,NM,NGTCB,58.0331778852899,Natural gas total consumption (including supplemental gaseous fuels).
+130,1964,NM,PMTCB,32.37428546897032,All petroleum products total consumption excluding fuel ethanol.
+131,1964,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+132,1964,NM,NUETB,0.0,Electricity produced from nuclear power.
+133,1964,TX,CLTCB,0.5271420471054934,Coal total consumption.
+134,1964,TX,BMTCB,0.7864720159066496,Biomass total consumption
+135,1964,TX,GETCB,0.0,Geothermal energy total consumption.
+136,1964,TX,NGTCB,61.10067359043031,Natural gas total consumption (including supplemental gaseous fuels).
+137,1964,TX,PMTCB,37.58571234655753,All petroleum products total consumption excluding fuel ethanol.
+138,1964,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+139,1964,TX,NUETB,0.0,Electricity produced from nuclear power.
+140,1965,AZ,CLTCB,2.1786198163114756,Coal total consumption.
+141,1965,AZ,BMTCB,1.1450874809493705,Biomass total consumption
+142,1965,AZ,GETCB,0.0,Geothermal energy total consumption.
+143,1965,AZ,NGTCB,51.46033483849565,Natural gas total consumption (including supplemental gaseous fuels).
+144,1965,AZ,PMTCB,45.21595786424351,All petroleum products total consumption excluding fuel ethanol.
+145,1965,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+146,1965,AZ,NUETB,0.0,Electricity produced from nuclear power.
+147,1965,CA,CLTCB,1.5619432871996568,Coal total consumption.
+148,1965,CA,BMTCB,2.390701423789029,Biomass total consumption
+149,1965,CA,GETCB,0.048503054702950875,Geothermal energy total consumption.
+150,1965,CA,NGTCB,44.465561453514795,Natural gas total consumption (including supplemental gaseous fuels).
+151,1965,CA,PMTCB,51.45499397415296,All petroleum products total consumption excluding fuel ethanol.
+152,1965,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+153,1965,CA,NUETB,0.0782968066406108,Electricity produced from nuclear power.
+154,1965,NM,CLTCB,10.99257367423719,Coal total consumption.
+155,1965,NM,BMTCB,1.3969819074943897,Biomass total consumption
+156,1965,NM,GETCB,0.0,Geothermal energy total consumption.
+157,1965,NM,NGTCB,55.67462817944325,Natural gas total consumption (including supplemental gaseous fuels).
+158,1965,NM,PMTCB,31.935816238825154,All petroleum products total consumption excluding fuel ethanol.
+159,1965,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+160,1965,NM,NUETB,0.0,Electricity produced from nuclear power.
+161,1965,TX,CLTCB,0.5654599261328713,Coal total consumption.
+162,1965,TX,BMTCB,0.7982425171029042,Biomass total consumption
+163,1965,TX,GETCB,0.0,Geothermal energy total consumption.
+164,1965,TX,NGTCB,61.64632059411701,Natural gas total consumption (including supplemental gaseous fuels).
+165,1965,TX,PMTCB,36.98997696264722,All petroleum products total consumption excluding fuel ethanol.
+166,1965,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+167,1965,TX,NUETB,0.0,Electricity produced from nuclear power.
+168,1966,AZ,CLTCB,2.137939644048742,Coal total consumption.
+169,1966,AZ,BMTCB,1.0669386975545812,Biomass total consumption
+170,1966,AZ,GETCB,0.0,Geothermal energy total consumption.
+171,1966,AZ,NGTCB,50.58609533580133,Natural gas total consumption (including supplemental gaseous fuels).
+172,1966,AZ,PMTCB,46.20902632259535,All petroleum products total consumption excluding fuel ethanol.
+173,1966,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+174,1966,AZ,NUETB,0.0,Electricity produced from nuclear power.
+175,1966,CA,CLTCB,1.1786536253249573,Coal total consumption.
+176,1966,CA,BMTCB,2.303366986377806,Biomass total consumption
+177,1966,CA,GETCB,0.04479624079388374,Geothermal energy total consumption.
+178,1966,CA,NGTCB,45.354733437838156,Natural gas total consumption (including supplemental gaseous fuels).
+179,1966,CA,PMTCB,51.07508180426849,All petroleum products total consumption excluding fuel ethanol.
+180,1966,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+181,1966,CA,NUETB,0.043367905396701704,Electricity produced from nuclear power.
+182,1966,NM,CLTCB,8.883401310806121,Coal total consumption.
+183,1966,NM,BMTCB,1.3203548989208778,Biomass total consumption
+184,1966,NM,GETCB,0.0,Geothermal energy total consumption.
+185,1966,NM,NGTCB,59.349841029073524,Natural gas total consumption (including supplemental gaseous fuels).
+186,1966,NM,PMTCB,30.446402761199476,All petroleum products total consumption excluding fuel ethanol.
+187,1966,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+188,1966,NM,NUETB,0.0,Electricity produced from nuclear power.
+189,1966,TX,CLTCB,0.509473070111879,Coal total consumption.
+190,1966,TX,BMTCB,0.8011618134805044,Biomass total consumption
+191,1966,TX,GETCB,0.0,Geothermal energy total consumption.
+192,1966,TX,NGTCB,62.2902718891685,Natural gas total consumption (including supplemental gaseous fuels).
+193,1966,TX,PMTCB,36.39909322723913,All petroleum products total consumption excluding fuel ethanol.
+194,1966,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+195,1966,TX,NUETB,0.0,Electricity produced from nuclear power.
+196,1967,AZ,CLTCB,2.061795290650402,Coal total consumption.
+197,1967,AZ,BMTCB,1.1997471557606176,Biomass total consumption
+198,1967,AZ,GETCB,0.0,Geothermal energy total consumption.
+199,1967,AZ,NGTCB,48.529504131029036,Natural gas total consumption (including supplemental gaseous fuels).
+200,1967,AZ,PMTCB,48.20895342255994,All petroleum products total consumption excluding fuel ethanol.
+201,1967,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+202,1967,AZ,NUETB,0.0,Electricity produced from nuclear power.
+203,1967,CA,CLTCB,1.2045371396375057,Coal total consumption.
+204,1967,CA,BMTCB,2.274816151145938,Biomass total consumption
+205,1967,CA,GETCB,0.07367431129327624,Geothermal energy total consumption.
+206,1967,CA,NGTCB,45.742776829527344,Natural gas total consumption (including supplemental gaseous fuels).
+207,1967,CA,PMTCB,50.559008025203156,All petroleum products total consumption excluding fuel ethanol.
+208,1967,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+209,1967,CA,NUETB,0.14518754319278465,Electricity produced from nuclear power.
+210,1967,NM,CLTCB,9.683706929139676,Coal total consumption.
+211,1967,NM,BMTCB,1.165298004011128,Biomass total consumption
+212,1967,NM,GETCB,0.0,Geothermal energy total consumption.
+213,1967,NM,NGTCB,61.50827156352467,Natural gas total consumption (including supplemental gaseous fuels).
+214,1967,NM,PMTCB,27.642723503324518,All petroleum products total consumption excluding fuel ethanol.
+215,1967,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+216,1967,NM,NUETB,0.0,Electricity produced from nuclear power.
+217,1967,TX,CLTCB,0.4085981779614463,Coal total consumption.
+218,1967,TX,BMTCB,0.7625610772390649,Biomass total consumption
+219,1967,TX,GETCB,0.0,Geothermal energy total consumption.
+220,1967,TX,NGTCB,63.20284134702442,Natural gas total consumption (including supplemental gaseous fuels).
+221,1967,TX,PMTCB,35.62599939777507,All petroleum products total consumption excluding fuel ethanol.
+222,1967,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+223,1967,TX,NUETB,0.0,Electricity produced from nuclear power.
+224,1968,AZ,CLTCB,2.081843914536593,Coal total consumption.
+225,1968,AZ,BMTCB,1.0610363401305705,Biomass total consumption
+226,1968,AZ,GETCB,0.0,Geothermal energy total consumption.
+227,1968,AZ,NGTCB,48.6013412291701,Natural gas total consumption (including supplemental gaseous fuels).
+228,1968,AZ,PMTCB,48.25577851616274,All petroleum products total consumption excluding fuel ethanol.
+229,1968,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+230,1968,AZ,NUETB,0.0,Electricity produced from nuclear power.
+231,1968,CA,CLTCB,1.189184582406813,Coal total consumption.
+232,1968,CA,BMTCB,2.3001985592239893,Biomass total consumption
+233,1968,CA,GETCB,0.09452710424225444,Geothermal energy total consumption.
+234,1968,CA,NGTCB,45.6240429452452,Natural gas total consumption (including supplemental gaseous fuels).
+235,1968,CA,PMTCB,50.437372777049795,All petroleum products total consumption excluding fuel ethanol.
+236,1968,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+237,1968,CA,NUETB,0.3546740318319549,Electricity produced from nuclear power.
+238,1968,NM,CLTCB,8.987170830589115,Coal total consumption.
+239,1968,NM,BMTCB,1.0999061124398222,Biomass total consumption
+240,1968,NM,GETCB,0.0,Geothermal energy total consumption.
+241,1968,NM,NGTCB,59.88409123000097,Natural gas total consumption (including supplemental gaseous fuels).
+242,1968,NM,PMTCB,30.02883182697009,All petroleum products total consumption excluding fuel ethanol.
+243,1968,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+244,1968,NM,NUETB,0.0,Electricity produced from nuclear power.
+245,1968,TX,CLTCB,0.4084511294619956,Coal total consumption.
+246,1968,TX,BMTCB,0.8031174734749439,Biomass total consumption
+247,1968,TX,GETCB,0.0,Geothermal energy total consumption.
+248,1968,TX,NGTCB,62.696385726680816,Natural gas total consumption (including supplemental gaseous fuels).
+249,1968,TX,PMTCB,36.09204567038224,All petroleum products total consumption excluding fuel ethanol.
+250,1968,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+251,1968,TX,NUETB,0.0,Electricity produced from nuclear power.
+252,1969,AZ,CLTCB,1.9746626842764599,Coal total consumption.
+253,1969,AZ,BMTCB,1.034074373583346,Biomass total consumption
+254,1969,AZ,GETCB,0.0,Geothermal energy total consumption.
+255,1969,AZ,NGTCB,49.5540651938956,Natural gas total consumption (including supplemental gaseous fuels).
+256,1969,AZ,PMTCB,47.4371977482446,All petroleum products total consumption excluding fuel ethanol.
+257,1969,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+258,1969,AZ,NUETB,0.0,Electricity produced from nuclear power.
+259,1969,CA,CLTCB,1.2320017488007144,Coal total consumption.
+260,1969,CA,BMTCB,2.385839298708517,Biomass total consumption
+261,1969,CA,GETCB,0.13179537068899502,Geothermal energy total consumption.
+262,1969,CA,NGTCB,44.94271132362411,Natural gas total consumption (including supplemental gaseous fuels).
+263,1969,CA,PMTCB,50.75092646436077,All petroleum products total consumption excluding fuel ethanol.
+264,1969,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+265,1969,CA,NUETB,0.556725793816916,Electricity produced from nuclear power.
+266,1969,NM,CLTCB,10.4841494613751,Coal total consumption.
+267,1969,NM,BMTCB,1.0466796650278454,Biomass total consumption
+268,1969,NM,GETCB,0.0,Geothermal energy total consumption.
+269,1969,NM,NGTCB,57.73590840028724,Natural gas total consumption (including supplemental gaseous fuels).
+270,1969,NM,PMTCB,30.733262473309807,All petroleum products total consumption excluding fuel ethanol.
+271,1969,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+272,1969,NM,NUETB,0.0,Electricity produced from nuclear power.
+273,1969,TX,CLTCB,0.3864627023142203,Coal total consumption.
+274,1969,TX,BMTCB,0.7850736676173314,Biomass total consumption
+275,1969,TX,GETCB,0.0,Geothermal energy total consumption.
+276,1969,TX,NGTCB,61.86674947208747,Natural gas total consumption (including supplemental gaseous fuels).
+277,1969,TX,PMTCB,36.96171415798098,All petroleum products total consumption excluding fuel ethanol.
+278,1969,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+279,1969,TX,NUETB,0.0,Electricity produced from nuclear power.
+280,1970,AZ,CLTCB,2.002485824814483,Coal total consumption.
+281,1970,AZ,BMTCB,1.0077256734106546,Biomass total consumption
+282,1970,AZ,GETCB,0.0,Geothermal energy total consumption.
+283,1970,AZ,NGTCB,47.463389694931166,Natural gas total consumption (including supplemental gaseous fuels).
+284,1970,AZ,PMTCB,49.5263988068437,All petroleum products total consumption excluding fuel ethanol.
+285,1970,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+286,1970,AZ,NUETB,0.0,Electricity produced from nuclear power.
+287,1970,CA,CLTCB,1.2416748871011392,Coal total consumption.
+288,1970,CA,BMTCB,2.3470679495414797,Biomass total consumption
+289,1970,CA,GETCB,0.11071087947929238,Geothermal energy total consumption.
+290,1970,CA,NGTCB,45.02333863755642,Natural gas total consumption (including supplemental gaseous fuels).
+291,1970,CA,PMTCB,50.586671888573406,All petroleum products total consumption excluding fuel ethanol.
+292,1970,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+293,1970,CA,NUETB,0.6905357577482631,Electricity produced from nuclear power.
+294,1970,NM,CLTCB,17.984851264262723,Coal total consumption.
+295,1970,NM,BMTCB,0.8790749943686399,Biomass total consumption
+296,1970,NM,GETCB,0.0,Geothermal energy total consumption.
+297,1970,NM,NGTCB,52.937624874898326,Natural gas total consumption (including supplemental gaseous fuels).
+298,1970,NM,PMTCB,28.198448866470315,All petroleum products total consumption excluding fuel ethanol.
+299,1970,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+300,1970,NM,NUETB,0.0,Electricity produced from nuclear power.
+301,1970,TX,CLTCB,0.45540831915086366,Coal total consumption.
+302,1970,TX,BMTCB,0.7727599765355191,Biomass total consumption
+303,1970,TX,GETCB,0.0,Geothermal energy total consumption.
+304,1970,TX,NGTCB,62.225192306957254,Natural gas total consumption (including supplemental gaseous fuels).
+305,1970,TX,PMTCB,36.54663939735635,All petroleum products total consumption excluding fuel ethanol.
+306,1970,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+307,1970,TX,NUETB,0.0,Electricity produced from nuclear power.
+308,1971,AZ,CLTCB,1.9275311252901213,Coal total consumption.
+309,1971,AZ,BMTCB,0.9829700176881271,Biomass total consumption
+310,1971,AZ,GETCB,0.0,Geothermal energy total consumption.
+311,1971,AZ,NGTCB,49.0568534733916,Natural gas total consumption (including supplemental gaseous fuels).
+312,1971,AZ,PMTCB,48.032645383630154,All petroleum products total consumption excluding fuel ethanol.
+313,1971,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+314,1971,AZ,NUETB,0.0,Electricity produced from nuclear power.
+315,1971,CA,CLTCB,0.9902662367063763,Coal total consumption.
+316,1971,CA,BMTCB,2.314246583485931,Biomass total consumption
+317,1971,CA,GETCB,0.11140854394323918,Geothermal energy total consumption.
+318,1971,CA,NGTCB,43.97304556481386,Natural gas total consumption (including supplemental gaseous fuels).
+319,1971,CA,PMTCB,51.87073235936003,All petroleum products total consumption excluding fuel ethanol.
+320,1971,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+321,1971,CA,NUETB,0.7403007116905659,Electricity produced from nuclear power.
+322,1971,NM,CLTCB,21.017917742927096,Coal total consumption.
+323,1971,NM,BMTCB,0.8148425975085858,Biomass total consumption
+324,1971,NM,GETCB,0.0,Geothermal energy total consumption.
+325,1971,NM,NGTCB,50.80130028305366,Natural gas total consumption (including supplemental gaseous fuels).
+326,1971,NM,PMTCB,27.36593937651065,All petroleum products total consumption excluding fuel ethanol.
+327,1971,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+328,1971,NM,NUETB,0.0,Electricity produced from nuclear power.
+329,1971,TX,CLTCB,0.33860555077365434,Coal total consumption.
+330,1971,TX,BMTCB,0.7216391413093046,Biomass total consumption
+331,1971,TX,GETCB,0.0,Geothermal energy total consumption.
+332,1971,TX,NGTCB,63.116851395939634,Natural gas total consumption (including supplemental gaseous fuels).
+333,1971,TX,PMTCB,35.82290391197742,All petroleum products total consumption excluding fuel ethanol.
+334,1971,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+335,1971,TX,NUETB,0.0,Electricity produced from nuclear power.
+336,1972,AZ,CLTCB,1.4615798899253611,Coal total consumption.
+337,1972,AZ,BMTCB,0.9291618498912768,Biomass total consumption
+338,1972,AZ,GETCB,0.0,Geothermal energy total consumption.
+339,1972,AZ,NGTCB,46.892154891996455,Natural gas total consumption (including supplemental gaseous fuels).
+340,1972,AZ,PMTCB,50.71710336818691,All petroleum products total consumption excluding fuel ethanol.
+341,1972,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+342,1972,AZ,NUETB,0.0,Electricity produced from nuclear power.
+343,1972,CA,CLTCB,0.8983301888837746,Coal total consumption.
+344,1972,CA,BMTCB,2.416518713496775,Biomass total consumption
+345,1972,CA,GETCB,0.2854577283401668,Geothermal energy total consumption.
+346,1972,CA,NGTCB,43.6095801257047,Natural gas total consumption (including supplemental gaseous fuels).
+347,1972,CA,PMTCB,52.14140425048879,All petroleum products total consumption excluding fuel ethanol.
+348,1972,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+349,1972,CA,NUETB,0.6487089930857859,Electricity produced from nuclear power.
+350,1972,NM,CLTCB,20.161735041490665,Coal total consumption.
+351,1972,NM,BMTCB,0.7386494401235553,Biomass total consumption
+352,1972,NM,GETCB,0.0,Geothermal energy total consumption.
+353,1972,NM,NGTCB,50.79178350469677,Natural gas total consumption (including supplemental gaseous fuels).
+354,1972,NM,PMTCB,28.307832013689016,All petroleum products total consumption excluding fuel ethanol.
+355,1972,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+356,1972,NM,NUETB,0.0,Electricity produced from nuclear power.
+357,1972,TX,CLTCB,0.6699607448942355,Coal total consumption.
+358,1972,TX,BMTCB,0.7876078717274443,Biomass total consumption
+359,1972,TX,GETCB,0.0,Geothermal energy total consumption.
+360,1972,TX,NGTCB,60.5524170816135,Natural gas total consumption (including supplemental gaseous fuels).
+361,1972,TX,PMTCB,37.99001430176482,All petroleum products total consumption excluding fuel ethanol.
+362,1972,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+363,1972,TX,NUETB,0.0,Electricity produced from nuclear power.
+364,1973,AZ,CLTCB,1.7519282375499077,Coal total consumption.
+365,1973,AZ,BMTCB,0.8072513093327455,Biomass total consumption
+366,1973,AZ,GETCB,0.0,Geothermal energy total consumption.
+367,1973,AZ,NGTCB,39.94245028034189,Natural gas total consumption (including supplemental gaseous fuels).
+368,1973,AZ,PMTCB,57.498370172775445,All petroleum products total consumption excluding fuel ethanol.
+369,1973,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+370,1973,AZ,NUETB,0.0,Electricity produced from nuclear power.
+371,1973,CA,CLTCB,1.2239179910071099,Coal total consumption.
+372,1973,CA,BMTCB,2.378549117188294,Biomass total consumption
+373,1973,CA,GETCB,0.373298832616064,Geothermal energy total consumption.
+374,1973,CA,NGTCB,39.37473486907099,Natural gas total consumption (including supplemental gaseous fuels).
+375,1973,CA,PMTCB,56.12507491740356,All petroleum products total consumption excluding fuel ethanol.
+376,1973,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+377,1973,CA,NUETB,0.5244242727139667,Electricity produced from nuclear power.
+378,1973,NM,CLTCB,22.245102977861546,Coal total consumption.
+379,1973,NM,BMTCB,0.6981736459162945,Biomass total consumption
+380,1973,NM,GETCB,0.0,Geothermal energy total consumption.
+381,1973,NM,NGTCB,45.32331601097123,Natural gas total consumption (including supplemental gaseous fuels).
+382,1973,NM,PMTCB,31.733407365250937,All petroleum products total consumption excluding fuel ethanol.
+383,1973,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+384,1973,NM,NUETB,0.0,Electricity produced from nuclear power.
+385,1973,TX,CLTCB,1.5624487888347245,Coal total consumption.
+386,1973,TX,BMTCB,0.7500087495110823,Biomass total consumption
+387,1973,TX,GETCB,0.0,Geothermal energy total consumption.
+388,1973,TX,NGTCB,58.896612897872345,Natural gas total consumption (including supplemental gaseous fuels).
+389,1973,TX,PMTCB,38.79092956378185,All petroleum products total consumption excluding fuel ethanol.
+390,1973,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+391,1973,TX,NUETB,0.0,Electricity produced from nuclear power.
+392,1974,AZ,CLTCB,8.28332827288618,Coal total consumption.
+393,1974,AZ,BMTCB,0.8192240109353833,Biomass total consumption
+394,1974,AZ,GETCB,0.0,Geothermal energy total consumption.
+395,1974,AZ,NGTCB,35.106489278426444,Natural gas total consumption (including supplemental gaseous fuels).
+396,1974,AZ,PMTCB,55.79095843775199,All petroleum products total consumption excluding fuel ethanol.
+397,1974,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+398,1974,AZ,NUETB,0.0,Electricity produced from nuclear power.
+399,1974,CA,CLTCB,1.1907961799649112,Coal total consumption.
+400,1974,CA,BMTCB,2.644258281779491,Biomass total consumption
+401,1974,CA,GETCB,0.5026654416120588,Geothermal energy total consumption.
+402,1974,CA,NGTCB,38.02096880614562,Natural gas total consumption (including supplemental gaseous fuels).
+403,1974,CA,PMTCB,56.8311554942737,All petroleum products total consumption excluding fuel ethanol.
+404,1974,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+405,1974,CA,NUETB,0.8101557962242348,Electricity produced from nuclear power.
+406,1974,NM,CLTCB,23.03926368805323,Coal total consumption.
+407,1974,NM,BMTCB,0.678821512751149,Biomass total consumption
+408,1974,NM,GETCB,0.0,Geothermal energy total consumption.
+409,1974,NM,NGTCB,44.68958291670981,Natural gas total consumption (including supplemental gaseous fuels).
+410,1974,NM,PMTCB,31.59233188248581,All petroleum products total consumption excluding fuel ethanol.
+411,1974,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+412,1974,NM,NUETB,0.0,Electricity produced from nuclear power.
+413,1974,TX,CLTCB,1.681646863113584,Coal total consumption.
+414,1974,TX,BMTCB,0.7534888066880683,Biomass total consumption
+415,1974,TX,GETCB,0.0,Geothermal energy total consumption.
+416,1974,TX,NGTCB,57.89863502792757,Natural gas total consumption (including supplemental gaseous fuels).
+417,1974,TX,PMTCB,39.66622930227078,All petroleum products total consumption excluding fuel ethanol.
+418,1974,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+419,1974,TX,NUETB,0.0,Electricity produced from nuclear power.
+420,1975,AZ,CLTCB,16.24898665535527,Coal total consumption.
+421,1975,AZ,BMTCB,0.9515389910964444,Biomass total consumption
+422,1975,AZ,GETCB,0.0,Geothermal energy total consumption.
+423,1975,AZ,NGTCB,28.885789054724402,Natural gas total consumption (including supplemental gaseous fuels).
+424,1975,AZ,PMTCB,53.91368529882388,All petroleum products total consumption excluding fuel ethanol.
+425,1975,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+426,1975,AZ,NUETB,0.0,Electricity produced from nuclear power.
+427,1975,CA,CLTCB,1.0807399280431471,Coal total consumption.
+428,1975,CA,BMTCB,2.442732506771584,Biomass total consumption
+429,1975,CA,GETCB,0.6472278123577504,Geothermal energy total consumption.
+430,1975,CA,NGTCB,37.11962487198586,Natural gas total consumption (including supplemental gaseous fuels).
+431,1975,CA,PMTCB,57.42870600291635,All petroleum products total consumption excluding fuel ethanol.
+432,1975,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+433,1975,CA,NUETB,1.2809688779252968,Electricity produced from nuclear power.
+434,1975,NM,CLTCB,22.343657255283947,Coal total consumption.
+435,1975,NM,BMTCB,0.9007212933219192,Biomass total consumption
+436,1975,NM,GETCB,0.0,Geothermal energy total consumption.
+437,1975,NM,NGTCB,43.09698877636893,Natural gas total consumption (including supplemental gaseous fuels).
+438,1975,NM,PMTCB,33.6586326750252,All petroleum products total consumption excluding fuel ethanol.
+439,1975,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+440,1975,NM,NUETB,0.0,Electricity produced from nuclear power.
+441,1975,TX,CLTCB,2.660564140581121,Coal total consumption.
+442,1975,TX,BMTCB,0.7570497597184926,Biomass total consumption
+443,1975,TX,GETCB,0.0,Geothermal energy total consumption.
+444,1975,TX,NGTCB,54.88620116813849,Natural gas total consumption (including supplemental gaseous fuels).
+445,1975,TX,PMTCB,41.696184931561895,All petroleum products total consumption excluding fuel ethanol.
+446,1975,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+447,1975,TX,NUETB,0.0,Electricity produced from nuclear power.
+448,1976,AZ,CLTCB,22.0998447547265,Coal total consumption.
+449,1976,AZ,BMTCB,0.9183987828183425,Biomass total consumption
+450,1976,AZ,GETCB,0.0,Geothermal energy total consumption.
+451,1976,AZ,NGTCB,28.45078520064356,Natural gas total consumption (including supplemental gaseous fuels).
+452,1976,AZ,PMTCB,48.53097126181161,All petroleum products total consumption excluding fuel ethanol.
+453,1976,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+454,1976,AZ,NUETB,0.0,Electricity produced from nuclear power.
+455,1976,CA,CLTCB,1.2306346137182855,Coal total consumption.
+456,1976,CA,BMTCB,2.673677455649152,Biomass total consumption
+457,1976,CA,GETCB,0.6928539327766071,Geothermal energy total consumption.
+458,1976,CA,NGTCB,34.163625729312486,Natural gas total consumption (including supplemental gaseous fuels).
+459,1976,CA,PMTCB,60.2583368249355,All petroleum products total consumption excluding fuel ethanol.
+460,1976,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+461,1976,CA,NUETB,0.9808714436079924,Electricity produced from nuclear power.
+462,1976,NM,CLTCB,21.44960244320116,Coal total consumption.
+463,1976,NM,BMTCB,0.9345664392899716,Biomass total consumption
+464,1976,NM,GETCB,0.0,Geothermal energy total consumption.
+465,1976,NM,NGTCB,46.0027494291333,Natural gas total consumption (including supplemental gaseous fuels).
+466,1976,NM,PMTCB,31.613081688375566,All petroleum products total consumption excluding fuel ethanol.
+467,1976,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+468,1976,NM,NUETB,0.0,Electricity produced from nuclear power.
+469,1976,TX,CLTCB,2.9441335276925376,Coal total consumption.
+470,1976,TX,BMTCB,0.8439787814342452,Biomass total consumption
+471,1976,TX,GETCB,0.0,Geothermal energy total consumption.
+472,1976,TX,NGTCB,53.0013108193578,Natural gas total consumption (including supplemental gaseous fuels).
+473,1976,TX,PMTCB,43.210576871515435,All petroleum products total consumption excluding fuel ethanol.
+474,1976,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+475,1976,TX,NUETB,0.0,Electricity produced from nuclear power.
+476,1977,AZ,CLTCB,25.17945159926637,Coal total consumption.
+477,1977,AZ,BMTCB,0.957391984217114,Biomass total consumption
+478,1977,AZ,GETCB,0.0,Geothermal energy total consumption.
+479,1977,AZ,NGTCB,24.703646090585874,Natural gas total consumption (including supplemental gaseous fuels).
+480,1977,AZ,PMTCB,49.159510325930654,All petroleum products total consumption excluding fuel ethanol.
+481,1977,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+482,1977,AZ,NUETB,0.0,Electricity produced from nuclear power.
+483,1977,CA,CLTCB,1.2840248778619843,Coal total consumption.
+484,1977,CA,BMTCB,2.5982408448414787,Biomass total consumption
+485,1977,CA,GETCB,0.6390573150297594,Geothermal energy total consumption.
+486,1977,CA,NGTCB,31.86915788858228,Natural gas total consumption (including supplemental gaseous fuels).
+487,1977,CA,PMTCB,62.11545140478248,All petroleum products total consumption excluding fuel ethanol.
+488,1977,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+489,1977,CA,NUETB,1.49406766890203,Electricity produced from nuclear power.
+490,1977,NM,CLTCB,24.961922859712452,Coal total consumption.
+491,1977,NM,BMTCB,1.1410645152403003,Biomass total consumption
+492,1977,NM,GETCB,0.0,Geothermal energy total consumption.
+493,1977,NM,NGTCB,39.39375804932824,Natural gas total consumption (including supplemental gaseous fuels).
+494,1977,NM,PMTCB,34.503254575719005,All petroleum products total consumption excluding fuel ethanol.
+495,1977,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+496,1977,NM,NUETB,0.0,Electricity produced from nuclear power.
+497,1977,TX,CLTCB,3.4794633277150813,Coal total consumption.
+498,1977,TX,BMTCB,0.8495803311471274,Biomass total consumption
+499,1977,TX,GETCB,0.0,Geothermal energy total consumption.
+500,1977,TX,NGTCB,51.371989302219646,Natural gas total consumption (including supplemental gaseous fuels).
+501,1977,TX,PMTCB,44.29896703891814,All petroleum products total consumption excluding fuel ethanol.
+502,1977,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+503,1977,TX,NUETB,0.0,Electricity produced from nuclear power.
+504,1978,AZ,CLTCB,22.506935784459248,Coal total consumption.
+505,1978,AZ,BMTCB,1.0029412470497288,Biomass total consumption
+506,1978,AZ,GETCB,0.0,Geothermal energy total consumption.
+507,1978,AZ,NGTCB,26.219154516358657,Natural gas total consumption (including supplemental gaseous fuels).
+508,1978,AZ,PMTCB,50.27096845213237,All petroleum products total consumption excluding fuel ethanol.
+509,1978,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+510,1978,AZ,NUETB,0.0,Electricity produced from nuclear power.
+511,1978,CA,CLTCB,1.19771040115202,Coal total consumption.
+512,1978,CA,BMTCB,2.8272326348080052,Biomass total consumption
+513,1978,CA,GETCB,0.5442597243884931,Geothermal energy total consumption.
+514,1978,CA,NGTCB,29.043669554303957,Natural gas total consumption (including supplemental gaseous fuels).
+515,1978,CA,PMTCB,64.90876546828294,All petroleum products total consumption excluding fuel ethanol.
+516,1978,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+517,1978,CA,NUETB,1.478362217064584,Electricity produced from nuclear power.
+518,1978,NM,CLTCB,24.52833742793429,Coal total consumption.
+519,1978,NM,BMTCB,1.2921253179083623,Biomass total consumption
+520,1978,NM,GETCB,0.0,Geothermal energy total consumption.
+521,1978,NM,NGTCB,37.94436817286543,Natural gas total consumption (including supplemental gaseous fuels).
+522,1978,NM,PMTCB,36.235169081291914,All petroleum products total consumption excluding fuel ethanol.
+523,1978,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+524,1978,NM,NUETB,0.0,Electricity produced from nuclear power.
+525,1978,TX,CLTCB,4.80202132300418,Coal total consumption.
+526,1978,TX,BMTCB,0.8750709053244364,Biomass total consumption
+527,1978,TX,GETCB,0.0,Geothermal energy total consumption.
+528,1978,TX,NGTCB,49.68877464973495,Natural gas total consumption (including supplemental gaseous fuels).
+529,1978,TX,PMTCB,44.634133121936436,All petroleum products total consumption excluding fuel ethanol.
+530,1978,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+531,1978,TX,NUETB,0.0,Electricity produced from nuclear power.
+532,1979,AZ,CLTCB,31.535258574761666,Coal total consumption.
+533,1979,AZ,BMTCB,1.0618715354397672,Biomass total consumption
+534,1979,AZ,GETCB,0.0,Geothermal energy total consumption.
+535,1979,AZ,NGTCB,23.127259301702104,Natural gas total consumption (including supplemental gaseous fuels).
+536,1979,AZ,PMTCB,44.275610588096455,All petroleum products total consumption excluding fuel ethanol.
+537,1979,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+538,1979,AZ,NUETB,0.0,Electricity produced from nuclear power.
+539,1979,CA,CLTCB,1.1357077324174836,Coal total consumption.
+540,1979,CA,BMTCB,2.788932114750767,Biomass total consumption
+541,1979,CA,GETCB,0.6669066451216928,Geothermal energy total consumption.
+542,1979,CA,NGTCB,31.4774499367336,Natural gas total consumption (including supplemental gaseous fuels).
+543,1979,CA,PMTCB,62.352125987226884,All petroleum products total consumption excluding fuel ethanol.
+544,1979,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+545,1979,CA,NUETB,1.5788775837495848,Electricity produced from nuclear power.
+546,1979,NM,CLTCB,25.487402174137024,Coal total consumption.
+547,1979,NM,BMTCB,1.5364563412713343,Biomass total consumption
+548,1979,NM,GETCB,0.0,Geothermal energy total consumption.
+549,1979,NM,NGTCB,37.17850558860027,Natural gas total consumption (including supplemental gaseous fuels).
+550,1979,NM,PMTCB,35.797635895991384,All petroleum products total consumption excluding fuel ethanol.
+551,1979,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+552,1979,NM,NUETB,0.0,Electricity produced from nuclear power.
+553,1979,TX,CLTCB,6.515014192364496,Coal total consumption.
+554,1979,TX,BMTCB,0.856702251773445,Biomass total consumption
+555,1979,TX,GETCB,0.0,Geothermal energy total consumption.
+556,1979,TX,NGTCB,45.80361315671492,Natural gas total consumption (including supplemental gaseous fuels).
+557,1979,TX,PMTCB,46.82467039914715,All petroleum products total consumption excluding fuel ethanol.
+558,1979,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+559,1979,TX,NUETB,0.0,Electricity produced from nuclear power.
+560,1980,AZ,CLTCB,33.19460706771448,Coal total consumption.
+561,1980,AZ,BMTCB,2.4164884719957613,Biomass total consumption
+562,1980,AZ,GETCB,0.0,Geothermal energy total consumption.
+563,1980,AZ,NGTCB,23.572396530580704,Natural gas total consumption (including supplemental gaseous fuels).
+564,1980,AZ,PMTCB,40.81650792970906,All petroleum products total consumption excluding fuel ethanol.
+565,1980,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+566,1980,AZ,NUETB,0.0,Electricity produced from nuclear power.
+567,1980,CA,CLTCB,1.1631976332789578,Coal total consumption.
+568,1980,CA,BMTCB,2.0323124506591204,Biomass total consumption
+569,1980,CA,GETCB,0.9263998085100813,Geothermal energy total consumption.
+570,1980,CA,NGTCB,33.23995015808833,Natural gas total consumption (including supplemental gaseous fuels).
+571,1980,CA,PMTCB,61.69476223217421,All petroleum products total consumption excluding fuel ethanol.
+572,1980,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+573,1980,CA,NUETB,0.9433777172892921,Electricity produced from nuclear power.
+574,1980,NM,CLTCB,31.646437903009065,Coal total consumption.
+575,1980,NM,BMTCB,0.818207370189713,Biomass total consumption
+576,1980,NM,GETCB,0.0,Geothermal energy total consumption.
+577,1980,NM,NGTCB,36.08597305341364,Natural gas total consumption (including supplemental gaseous fuels).
+578,1980,NM,PMTCB,31.449381673387588,All petroleum products total consumption excluding fuel ethanol.
+579,1980,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+580,1980,NM,NUETB,0.0,Electricity produced from nuclear power.
+581,1980,TX,CLTCB,8.060364115865072,Coal total consumption.
+582,1980,TX,BMTCB,0.6109686007647547,Biomass total consumption
+583,1980,TX,GETCB,0.0,Geothermal energy total consumption.
+584,1980,TX,NGTCB,46.399499894144405,Natural gas total consumption (including supplemental gaseous fuels).
+585,1980,TX,PMTCB,44.92916738922575,All petroleum products total consumption excluding fuel ethanol.
+586,1980,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+587,1980,TX,NUETB,0.0,Electricity produced from nuclear power.
+588,1981,AZ,CLTCB,39.07732110189473,Coal total consumption.
+589,1981,AZ,BMTCB,2.626317068731309,Biomass total consumption
+590,1981,AZ,GETCB,0.0,Geothermal energy total consumption.
+591,1981,AZ,NGTCB,23.51302864146334,Natural gas total consumption (including supplemental gaseous fuels).
+592,1981,AZ,PMTCB,34.78333318791063,All petroleum products total consumption excluding fuel ethanol.
+593,1981,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+594,1981,AZ,NUETB,0.0,Electricity produced from nuclear power.
+595,1981,CA,CLTCB,1.4260701550221946,Coal total consumption.
+596,1981,CA,BMTCB,2.4208878303076045,Biomass total consumption
+597,1981,CA,GETCB,1.0811402761824482,Geothermal energy total consumption.
+598,1981,CA,NGTCB,35.421777733758994,Natural gas total consumption (including supplemental gaseous fuels).
+599,1981,CA,PMTCB,59.00681182234948,All petroleum products total consumption excluding fuel ethanol.
+600,1981,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+601,1981,CA,NUETB,0.6433121823792581,Electricity produced from nuclear power.
+602,1981,NM,CLTCB,31.606987249609038,Coal total consumption.
+603,1981,NM,BMTCB,1.0932380781440094,Biomass total consumption
+604,1981,NM,GETCB,0.0,Geothermal energy total consumption.
+605,1981,NM,NGTCB,32.97123813505057,Natural gas total consumption (including supplemental gaseous fuels).
+606,1981,NM,PMTCB,34.328536537196385,All petroleum products total consumption excluding fuel ethanol.
+607,1981,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+608,1981,NM,NUETB,0.0,Electricity produced from nuclear power.
+609,1981,TX,CLTCB,9.615313701330146,Coal total consumption.
+610,1981,TX,BMTCB,0.655685783033813,Biomass total consumption
+611,1981,TX,GETCB,0.0,Geothermal energy total consumption.
+612,1981,TX,NGTCB,45.38599641166901,Natural gas total consumption (including supplemental gaseous fuels).
+613,1981,TX,PMTCB,44.34300410396702,All petroleum products total consumption excluding fuel ethanol.
+614,1981,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+615,1981,TX,NUETB,0.0,Electricity produced from nuclear power.
+616,1982,AZ,CLTCB,43.190094110387015,Coal total consumption.
+617,1982,AZ,BMTCB,2.7789444703269712,Biomass total consumption
+618,1982,AZ,GETCB,0.0,Geothermal energy total consumption.
+619,1982,AZ,NGTCB,18.281125182187687,Natural gas total consumption (including supplemental gaseous fuels).
+620,1982,AZ,PMTCB,35.74983623709832,All petroleum products total consumption excluding fuel ethanol.
+621,1982,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+622,1982,AZ,NUETB,0.0,Electricity produced from nuclear power.
+623,1982,CA,CLTCB,1.4016881166967001,Coal total consumption.
+624,1982,CA,BMTCB,2.5668414010212146,Biomass total consumption
+625,1982,CA,GETCB,1.0223154060006252,Geothermal energy total consumption.
+626,1982,CA,NGTCB,35.644042390869636,Natural gas total consumption (including supplemental gaseous fuels).
+627,1982,CA,PMTCB,58.529985560139345,All petroleum products total consumption excluding fuel ethanol.
+628,1982,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+629,1982,CA,NUETB,0.8351271252724831,Electricity produced from nuclear power.
+630,1982,NM,CLTCB,35.58715805050047,Coal total consumption.
+631,1982,NM,BMTCB,1.1382076309443896,Biomass total consumption
+632,1982,NM,GETCB,0.0,Geothermal energy total consumption.
+633,1982,NM,NGTCB,33.662504344617254,Natural gas total consumption (including supplemental gaseous fuels).
+634,1982,NM,PMTCB,29.61212997393789,All petroleum products total consumption excluding fuel ethanol.
+635,1982,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+636,1982,NM,NUETB,0.0,Electricity produced from nuclear power.
+637,1982,TX,CLTCB,11.208122748036873,Coal total consumption.
+638,1982,TX,BMTCB,0.8428414006487951,Biomass total consumption
+639,1982,TX,GETCB,0.0,Geothermal energy total consumption.
+640,1982,TX,NGTCB,42.16927132643662,Natural gas total consumption (including supplemental gaseous fuels).
+641,1982,TX,PMTCB,45.77976452487772,All petroleum products total consumption excluding fuel ethanol.
+642,1982,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+643,1982,TX,NUETB,0.0,Electricity produced from nuclear power.
+644,1983,AZ,CLTCB,40.555750476166146,Coal total consumption.
+645,1983,AZ,BMTCB,3.245605313847455,Biomass total consumption
+646,1983,AZ,GETCB,0.0,Geothermal energy total consumption.
+647,1983,AZ,NGTCB,16.529964984712837,Natural gas total consumption (including supplemental gaseous fuels).
+648,1983,AZ,PMTCB,39.668679225273564,All petroleum products total consumption excluding fuel ethanol.
+649,1983,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+650,1983,AZ,NUETB,0.0,Electricity produced from nuclear power.
+651,1983,CA,CLTCB,0.6526984952162613,Coal total consumption.
+652,1983,CA,BMTCB,3.029840155102746,Biomass total consumption
+653,1983,CA,GETCB,1.302676312637458,Geothermal energy total consumption.
+654,1983,CA,NGTCB,32.633878309822364,Natural gas total consumption (including supplemental gaseous fuels).
+655,1983,CA,PMTCB,61.13318005029045,All petroleum products total consumption excluding fuel ethanol.
+656,1983,CA,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+657,1983,CA,NUETB,1.2477266769307305,Electricity produced from nuclear power.
+658,1983,NM,CLTCB,39.65342000622426,Coal total consumption.
+659,1983,NM,BMTCB,1.2433897057940686,Biomass total consumption
+660,1983,NM,GETCB,0.0,Geothermal energy total consumption.
+661,1983,NM,NGTCB,27.76298303143413,Natural gas total consumption (including supplemental gaseous fuels).
+662,1983,NM,PMTCB,31.340207256547547,All petroleum products total consumption excluding fuel ethanol.
+663,1983,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+664,1983,NM,NUETB,0.0,Electricity produced from nuclear power.
+665,1983,TX,CLTCB,12.347786696165684,Coal total consumption.
+666,1983,TX,BMTCB,0.8066110811438129,Biomass total consumption
+667,1983,TX,GETCB,0.0,Geothermal energy total consumption.
+668,1983,TX,NGTCB,40.50745546244988,Natural gas total consumption (including supplemental gaseous fuels).
+669,1983,TX,PMTCB,46.338146760240626,All petroleum products total consumption excluding fuel ethanol.
+670,1983,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+671,1983,TX,NUETB,0.0,Electricity produced from nuclear power.
+672,1984,AZ,CLTCB,41.193242241223,Coal total consumption.
+673,1984,AZ,BMTCB,3.1877224986924397,Biomass total consumption
+674,1984,AZ,GETCB,0.0,Geothermal energy total consumption.
+675,1984,AZ,NGTCB,16.084110073879838,Natural gas total consumption (including supplemental gaseous fuels).
+676,1984,AZ,PMTCB,39.53492518620472,All petroleum products total consumption excluding fuel ethanol.
+677,1984,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+678,1984,AZ,NUETB,0.0,Electricity produced from nuclear power.
+679,1984,CA,CLTCB,0.6879688084624276,Coal total consumption.
+680,1984,CA,BMTCB,3.06409692306848,Biomass total consumption
+681,1984,CA,GETCB,1.4814156635942284,Geothermal energy total consumption.
+682,1984,CA,NGTCB,32.13917870451627,Natural gas total consumption (including supplemental gaseous fuels).
+683,1984,CA,PMTCB,59.793264653108544,All petroleum products total consumption excluding fuel ethanol.
+684,1984,CA,SOTCB,0.0010120798734963182,Photovoltaic and solar thermal energy total consumption.
+685,1984,CA,NUETB,2.8330631673765683,Electricity produced from nuclear power.
+686,1984,NM,CLTCB,39.86370279172777,Coal total consumption.
+687,1984,NM,BMTCB,1.4105045710458164,Biomass total consumption
+688,1984,NM,GETCB,0.0,Geothermal energy total consumption.
+689,1984,NM,NGTCB,26.765304146828033,Natural gas total consumption (including supplemental gaseous fuels).
+690,1984,NM,PMTCB,31.96048849039838,All petroleum products total consumption excluding fuel ethanol.
+691,1984,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+692,1984,NM,NUETB,0.0,Electricity produced from nuclear power.
+693,1984,TX,CLTCB,12.330368370956661,Coal total consumption.
+694,1984,TX,BMTCB,0.893389066634589,Biomass total consumption
+695,1984,TX,GETCB,0.0,Geothermal energy total consumption.
+696,1984,TX,NGTCB,40.794974357200125,Natural gas total consumption (including supplemental gaseous fuels).
+697,1984,TX,PMTCB,45.98126820520862,All petroleum products total consumption excluding fuel ethanol.
+698,1984,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+699,1984,TX,NUETB,0.0,Electricity produced from nuclear power.
+700,1985,AZ,CLTCB,41.01860084029727,Coal total consumption.
+701,1985,AZ,BMTCB,3.0652220748250323,Biomass total consumption
+702,1985,AZ,GETCB,0.0,Geothermal energy total consumption.
+703,1985,AZ,NGTCB,16.46859803063912,Natural gas total consumption (including supplemental gaseous fuels).
+704,1985,AZ,PMTCB,38.007823911547966,All petroleum products total consumption excluding fuel ethanol.
+705,1985,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+706,1985,AZ,NUETB,1.439755142690618,Electricity produced from nuclear power.
+707,1985,CA,CLTCB,0.8094315563767427,Coal total consumption.
+708,1985,CA,BMTCB,2.988002910597174,Biomass total consumption
+709,1985,CA,GETCB,1.7181249654341164,Geothermal energy total consumption.
+710,1985,CA,NGTCB,34.43164956560902,Natural gas total consumption (including supplemental gaseous fuels).
+711,1985,CA,PMTCB,56.30330017784394,All petroleum products total consumption excluding fuel ethanol.
+712,1985,CA,SOTCB,0.001985888996081005,Photovoltaic and solar thermal energy total consumption.
+713,1985,CA,NUETB,3.7475049351429313,Electricity produced from nuclear power.
+714,1985,NM,CLTCB,42.730708721801555,Coal total consumption.
+715,1985,NM,BMTCB,1.4624096636807882,Biomass total consumption
+716,1985,NM,GETCB,0.0,Geothermal energy total consumption.
+717,1985,NM,NGTCB,25.843321409882375,Natural gas total consumption (including supplemental gaseous fuels).
+718,1985,NM,PMTCB,29.963560204635293,All petroleum products total consumption excluding fuel ethanol.
+719,1985,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+720,1985,NM,NUETB,0.0,Electricity produced from nuclear power.
+721,1985,TX,CLTCB,13.14068077895988,Coal total consumption.
+722,1985,TX,BMTCB,0.9339799987707524,Biomass total consumption
+723,1985,TX,GETCB,0.0,Geothermal energy total consumption.
+724,1985,TX,NGTCB,40.192623243387345,Natural gas total consumption (including supplemental gaseous fuels).
+725,1985,TX,PMTCB,45.73271597888203,All petroleum products total consumption excluding fuel ethanol.
+726,1985,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+727,1985,TX,NUETB,0.0,Electricity produced from nuclear power.
+728,1986,AZ,CLTCB,34.20077382866904,Coal total consumption.
+729,1986,AZ,BMTCB,2.779000464888807,Biomass total consumption
+730,1986,AZ,GETCB,0.0,Geothermal energy total consumption.
+731,1986,AZ,NGTCB,12.159417875043253,Natural gas total consumption (including supplemental gaseous fuels).
+732,1986,AZ,PMTCB,38.66172623418942,All petroleum products total consumption excluding fuel ethanol.
+733,1986,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+734,1986,AZ,NUETB,12.19908159720948,Electricity produced from nuclear power.
+735,1986,CA,CLTCB,0.7931229262423662,Coal total consumption.
+736,1986,CA,BMTCB,2.4085048343474655,Biomass total consumption
+737,1986,CA,GETCB,1.9716825684825054,Geothermal energy total consumption.
+738,1986,CA,NGTCB,29.678520355568843,Natural gas total consumption (including supplemental gaseous fuels).
+739,1986,CA,PMTCB,59.97223649050325,All petroleum products total consumption excluding fuel ethanol.
+740,1986,CA,SOTCB,0.0027341853699697537,Photovoltaic and solar thermal energy total consumption.
+741,1986,CA,NUETB,5.173198639485607,Electricity produced from nuclear power.
+742,1986,NM,CLTCB,41.333432442588176,Coal total consumption.
+743,1986,NM,BMTCB,1.60631062863241,Biomass total consumption
+744,1986,NM,GETCB,0.0,Geothermal energy total consumption.
+745,1986,NM,NGTCB,24.726822717030778,Natural gas total consumption (including supplemental gaseous fuels).
+746,1986,NM,PMTCB,32.33343421174863,All petroleum products total consumption excluding fuel ethanol.
+747,1986,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+748,1986,NM,NUETB,0.0,Electricity produced from nuclear power.
+749,1986,TX,CLTCB,13.5331759195332,Coal total consumption.
+750,1986,TX,BMTCB,1.0760563182364342,Biomass total consumption
+751,1986,TX,GETCB,0.0,Geothermal energy total consumption.
+752,1986,TX,NGTCB,38.55913031794415,Natural gas total consumption (including supplemental gaseous fuels).
+753,1986,TX,PMTCB,46.83163744428621,All petroleum products total consumption excluding fuel ethanol.
+754,1986,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+755,1986,TX,NUETB,0.0,Electricity produced from nuclear power.
+756,1987,AZ,CLTCB,31.287621409971006,Coal total consumption.
+757,1987,AZ,BMTCB,1.937905158587995,Biomass total consumption
+758,1987,AZ,GETCB,0.0,Geothermal energy total consumption.
+759,1987,AZ,NGTCB,13.427868478411376,Natural gas total consumption (including supplemental gaseous fuels).
+760,1987,AZ,PMTCB,37.803354285794484,All petroleum products total consumption excluding fuel ethanol.
+761,1987,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+762,1987,AZ,NUETB,15.543250667235146,Electricity produced from nuclear power.
+763,1987,CA,CLTCB,0.7527637397421562,Coal total consumption.
+764,1987,CA,BMTCB,2.6446885330058922,Biomass total consumption
+765,1987,CA,GETCB,1.8492662002508087,Geothermal energy total consumption.
+766,1987,CA,NGTCB,33.37439537783773,Natural gas total consumption (including supplemental gaseous fuels).
+767,1987,CA,PMTCB,56.063527250004086,All petroleum products total consumption excluding fuel ethanol.
+768,1987,CA,SOTCB,0.0018315101745624827,Photovoltaic and solar thermal energy total consumption.
+769,1987,CA,NUETB,5.31352738898477,Electricity produced from nuclear power.
+770,1987,NM,CLTCB,41.403510810145825,Coal total consumption.
+771,1987,NM,BMTCB,1.0931652057593924,Biomass total consumption
+772,1987,NM,GETCB,0.0,Geothermal energy total consumption.
+773,1987,NM,NGTCB,26.14241978265938,Natural gas total consumption (including supplemental gaseous fuels).
+774,1987,NM,PMTCB,31.360904201435403,All petroleum products total consumption excluding fuel ethanol.
+775,1987,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+776,1987,NM,NUETB,0.0,Electricity produced from nuclear power.
+777,1987,TX,CLTCB,13.655244258568175,Coal total consumption.
+778,1987,TX,BMTCB,1.1141192321865956,Biomass total consumption
+779,1987,TX,GETCB,0.0,Geothermal energy total consumption.
+780,1987,TX,NGTCB,38.96539222677137,Natural gas total consumption (including supplemental gaseous fuels).
+781,1987,TX,PMTCB,46.26524428247386,All petroleum products total consumption excluding fuel ethanol.
+782,1987,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+783,1987,TX,NUETB,0.0,Electricity produced from nuclear power.
+784,1988,AZ,CLTCB,29.522082967518358,Coal total consumption.
+785,1988,AZ,BMTCB,1.7543368080734958,Biomass total consumption
+786,1988,AZ,GETCB,0.0,Geothermal energy total consumption.
+787,1988,AZ,NGTCB,12.284368428695135,Natural gas total consumption (including supplemental gaseous fuels).
+788,1988,AZ,PMTCB,33.2053459854973,All petroleum products total consumption excluding fuel ethanol.
+789,1988,AZ,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+790,1988,AZ,NUETB,23.233865810215704,Electricity produced from nuclear power.
+791,1988,CA,CLTCB,0.8392872301439622,Coal total consumption.
+792,1988,CA,BMTCB,2.7914084140492985,Biomass total consumption
+793,1988,CA,GETCB,1.7235445928626931,Geothermal energy total consumption.
+794,1988,CA,NGTCB,30.72157828294814,Natural gas total consumption (including supplemental gaseous fuels).
+795,1988,CA,PMTCB,58.51927431423009,All petroleum products total consumption excluding fuel ethanol.
+796,1988,CA,SOTCB,0.001537202451914982,Photovoltaic and solar thermal energy total consumption.
+797,1988,CA,NUETB,5.403369963313895,Electricity produced from nuclear power.
+798,1988,NM,CLTCB,40.44589950443822,Coal total consumption.
+799,1988,NM,BMTCB,1.1486607602275856,Biomass total consumption
+800,1988,NM,GETCB,0.0,Geothermal energy total consumption.
+801,1988,NM,NGTCB,28.15382628818794,Natural gas total consumption (including supplemental gaseous fuels).
+802,1988,NM,PMTCB,30.251613447146237,All petroleum products total consumption excluding fuel ethanol.
+803,1988,NM,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+804,1988,NM,NUETB,0.0,Electricity produced from nuclear power.
+805,1988,TX,CLTCB,13.452738096369007,Coal total consumption.
+806,1988,TX,BMTCB,1.0538735016822005,Biomass total consumption
+807,1988,TX,GETCB,0.0,Geothermal energy total consumption.
+808,1988,TX,NGTCB,39.00505445806905,Natural gas total consumption (including supplemental gaseous fuels).
+809,1988,TX,PMTCB,46.06051775096129,All petroleum products total consumption excluding fuel ethanol.
+810,1988,TX,SOTCB,0.0,Photovoltaic and solar thermal energy total consumption.
+811,1988,TX,NUETB,0.42781619291846973,Electricity produced from nuclear power.
+812,1989,AZ,CLTCB,36.799301170121964,Coal total consumption.
+813,1989,AZ,BMTCB,1.6277143030414074,Biomass total consumption
+814,1989,AZ,GETCB,0.024498545932160602,Geothermal energy total consumption.
+815,1989,AZ,NGTCB,15.78367435297687,Natural gas total consumption (including supplemental gaseous fuels).
+816,1989,AZ,PMTCB,36.73989158142822,All petroleum products total consumption excluding fuel ethanol.
+817,1989,AZ,SOTCB,0.367588362621895,Photovoltaic and solar thermal energy total consumption.
+818,1989,AZ,NUETB,8.65733168387749,Electricity produced from nuclear power.
+819,1989,CA,CLTCB,1.029288593534632,Coal total consumption.
+820,1989,CA,BMTCB,3.6553794573458123,Biomass total consumption
+821,1989,CA,GETCB,2.2259838734285604,Geothermal energy total consumption.
+822,1989,CA,NGTCB,31.731601231682934,Natural gas total consumption (including supplemental gaseous fuels).
+823,1989,CA,PMTCB,55.71909481183754,All petroleum products total consumption excluding fuel ethanol.
+824,1989,CA,SOTCB,0.30607521389669456,Photovoltaic and solar thermal energy total consumption.
+825,1989,CA,NUETB,5.332576818273829,Electricity produced from nuclear power.
+826,1989,NM,CLTCB,40.42709225225693,Coal total consumption.
+827,1989,NM,BMTCB,0.9862929003152273,Biomass total consumption
+828,1989,NM,GETCB,0.01654153974685306,Geothermal energy total consumption.
+829,1989,NM,NGTCB,29.634821507808407,Natural gas total consumption (including supplemental gaseous fuels).
+830,1989,NM,PMTCB,28.853867851942148,All petroleum products total consumption excluding fuel ethanol.
+831,1989,NM,SOTCB,0.08138394793043277,Photovoltaic and solar thermal energy total consumption.
+832,1989,NM,NUETB,0.0,Electricity produced from nuclear power.
+833,1989,TX,CLTCB,13.626951140153992,Coal total consumption.
+834,1989,TX,BMTCB,1.1425824943804543,Biomass total consumption
+835,1989,TX,GETCB,0.0020156254148735314,Geothermal energy total consumption.
+836,1989,TX,NGTCB,39.640460317940054,Natural gas total consumption (including supplemental gaseous fuels).
+837,1989,TX,PMTCB,44.50593865341899,All petroleum products total consumption excluding fuel ethanol.
+838,1989,TX,SOTCB,0.003633122886116954,Photovoltaic and solar thermal energy total consumption.
+839,1989,TX,NUETB,1.0784186458055256,Electricity produced from nuclear power.
+840,1990,AZ,CLTCB,32.49118033203656,Coal total consumption.
+841,1990,AZ,BMTCB,1.3000262039541934,Biomass total consumption
+842,1990,AZ,GETCB,0.022300509118290988,Geothermal energy total consumption.
+843,1990,AZ,NGTCB,12.373493119010954,Natural gas total consumption (including supplemental gaseous fuels).
+844,1990,AZ,PMTCB,32.84248491077547,All petroleum products total consumption excluding fuel ethanol.
+845,1990,AZ,SOTCB,0.34840476312133134,Photovoltaic and solar thermal energy total consumption.
+846,1990,AZ,NUETB,20.62211016198318,Electricity produced from nuclear power.
+847,1990,CA,CLTCB,1.3013949139402716,Coal total consumption.
+848,1990,CA,BMTCB,3.4419767318271135,Biomass total consumption
+849,1990,CA,GETCB,2.3527168638668186,Geothermal energy total consumption.
+850,1990,CA,NGTCB,32.4979054460166,Natural gas total consumption (including supplemental gaseous fuels).
+851,1990,CA,PMTCB,54.71466359263892,All petroleum products total consumption excluding fuel ethanol.
+852,1990,CA,SOTCB,0.3416987461014202,Photovoltaic and solar thermal energy total consumption.
+853,1990,CA,NUETB,5.349643705608827,Electricity produced from nuclear power.
+854,1990,NM,CLTCB,36.967901851947175,Coal total consumption.
+855,1990,NM,BMTCB,0.7901897642524903,Biomass total consumption
+856,1990,NM,GETCB,0.01572804686998046,Geothermal energy total consumption.
+857,1990,NM,NGTCB,33.723678230652084,Natural gas total consumption (including supplemental gaseous fuels).
+858,1990,NM,PMTCB,28.4243182192533,All petroleum products total consumption excluding fuel ethanol.
+859,1990,NM,SOTCB,0.07818388702496339,Photovoltaic and solar thermal energy total consumption.
+860,1990,NM,NUETB,0.0,Electricity produced from nuclear power.
+861,1990,TX,CLTCB,13.491217648491762,Coal total consumption.
+862,1990,TX,BMTCB,0.9915917371611543,Biomass total consumption
+863,1990,TX,GETCB,0.002391148589278771,Geothermal energy total consumption.
+864,1990,TX,NGTCB,39.22759360479878,Natural gas total consumption (including supplemental gaseous fuels).
+865,1990,TX,PMTCB,44.58571214048168,All petroleum products total consumption excluding fuel ethanol.
+866,1990,TX,SOTCB,0.0038239356383901416,Photovoltaic and solar thermal energy total consumption.
+867,1990,TX,NUETB,1.697669784838977,Electricity produced from nuclear power.
+868,1991,AZ,CLTCB,31.23942812209693,Coal total consumption.
+869,1991,AZ,BMTCB,1.3120907220340448,Biomass total consumption
+870,1991,AZ,GETCB,0.021249907919698496,Geothermal energy total consumption.
+871,1991,AZ,NGTCB,11.530836080901715,Natural gas total consumption (including supplemental gaseous fuels).
+872,1991,AZ,PMTCB,31.892108062594243,All petroleum products total consumption excluding fuel ethanol.
+873,1991,AZ,SOTCB,0.33559392288312845,Photovoltaic and solar thermal energy total consumption.
+874,1991,AZ,NUETB,23.66869318157026,Electricity produced from nuclear power.
+875,1991,CA,CLTCB,1.420317944314729,Coal total consumption.
+876,1991,CA,BMTCB,3.478225582017272,Biomass total consumption
+877,1991,CA,GETCB,2.467637054352585,Geothermal energy total consumption.
+878,1991,CA,NGTCB,35.036843211943946,Natural gas total consumption (including supplemental gaseous fuels).
+879,1991,CA,PMTCB,51.971676148403404,All petroleum products total consumption excluding fuel ethanol.
+880,1991,CA,SOTCB,0.37863640190179143,Photovoltaic and solar thermal energy total consumption.
+881,1991,CA,NUETB,5.246663657066257,Electricity produced from nuclear power.
+882,1991,NM,CLTCB,33.56616209988944,Coal total consumption.
+883,1991,NM,BMTCB,0.8836660771223505,Biomass total consumption
+884,1991,NM,GETCB,0.017325843480349542,Geothermal energy total consumption.
+885,1991,NM,NGTCB,32.57021462298245,Natural gas total consumption (including supplemental gaseous fuels).
+886,1991,NM,PMTCB,32.877756708669075,All petroleum products total consumption excluding fuel ethanol.
+887,1991,NM,SOTCB,0.08487464785635292,Photovoltaic and solar thermal energy total consumption.
+888,1991,NM,NUETB,0.0,Electricity produced from nuclear power.
+889,1991,TX,CLTCB,13.473178648628162,Coal total consumption.
+890,1991,TX,BMTCB,0.9943407370564032,Biomass total consumption
+891,1991,TX,GETCB,0.002743462108606519,Geothermal energy total consumption.
+892,1991,TX,NGTCB,38.63963383509163,Natural gas total consumption (including supplemental gaseous fuels).
+893,1991,TX,PMTCB,44.78841334881073,All petroleum products total consumption excluding fuel ethanol.
+894,1991,TX,SOTCB,0.00428256927336382,Photovoltaic and solar thermal energy total consumption.
+895,1991,TX,NUETB,2.097407399031116,Electricity produced from nuclear power.
+896,1992,AZ,CLTCB,31.986804251803846,Coal total consumption.
+897,1992,AZ,BMTCB,1.3058768226651256,Biomass total consumption
+898,1992,AZ,GETCB,0.02047943947763553,Geothermal energy total consumption.
+899,1992,AZ,NGTCB,11.572658115398198,Natural gas total consumption (including supplemental gaseous fuels).
+900,1992,AZ,PMTCB,31.58855502002136,All petroleum products total consumption excluding fuel ethanol.
+901,1992,AZ,SOTCB,0.32782933192608404,Photovoltaic and solar thermal energy total consumption.
+902,1992,AZ,NUETB,23.197797018707757,Electricity produced from nuclear power.
+903,1992,CA,CLTCB,1.4235915316214744,Coal total consumption.
+904,1992,CA,BMTCB,3.5244920338928543,Biomass total consumption
+905,1992,CA,GETCB,2.3977166535855736,Geothermal energy total consumption.
+906,1992,CA,NGTCB,35.6871477655737,Natural gas total consumption (including supplemental gaseous fuels).
+907,1992,CA,PMTCB,50.859195911214314,All petroleum products total consumption excluding fuel ethanol.
+908,1992,CA,SOTCB,0.36708320485374807,Photovoltaic and solar thermal energy total consumption.
+909,1992,CA,NUETB,5.74077289925834,Electricity produced from nuclear power.
+910,1992,NM,CLTCB,37.17170361688677,Coal total consumption.
+911,1992,NM,BMTCB,0.8286328704068561,Biomass total consumption
+912,1992,NM,GETCB,0.01736038115880931,Geothermal energy total consumption.
+913,1992,NM,NGTCB,29.33730641656525,Natural gas total consumption (including supplemental gaseous fuels).
+914,1992,NM,PMTCB,32.56242668631031,All petroleum products total consumption excluding fuel ethanol.
+915,1992,NM,SOTCB,0.08257002867201087,Photovoltaic and solar thermal energy total consumption.
+916,1992,NM,NUETB,0.0,Electricity produced from nuclear power.
+917,1992,TX,CLTCB,13.146540565329987,Coal total consumption.
+918,1992,TX,BMTCB,1.0732102667238026,Biomass total consumption
+919,1992,TX,GETCB,0.0030463384163898453,Geothermal energy total consumption.
+920,1992,TX,NGTCB,37.41545784584569,Natural gas total consumption (including supplemental gaseous fuels).
+921,1992,TX,PMTCB,45.81069658200939,All petroleum products total consumption excluding fuel ethanol.
+922,1992,TX,SOTCB,0.004258769352832158,Photovoltaic and solar thermal energy total consumption.
+923,1992,TX,NUETB,2.5467896323219357,Electricity produced from nuclear power.
+924,1993,AZ,CLTCB,34.24782889960392,Coal total consumption.
+925,1993,AZ,BMTCB,1.2185569664309606,Biomass total consumption
+926,1993,AZ,GETCB,0.020835312762316687,Geothermal energy total consumption.
+927,1993,AZ,NGTCB,10.380423905248096,Natural gas total consumption (including supplemental gaseous fuels).
+928,1993,AZ,PMTCB,33.44548804860372,All petroleum products total consumption excluding fuel ethanol.
+929,1993,AZ,SOTCB,0.3403862104938726,Photovoltaic and solar thermal energy total consumption.
+930,1993,AZ,NUETB,20.346480656857132,Electricity produced from nuclear power.
+931,1993,CA,CLTCB,1.3670560524893527,Coal total consumption.
+932,1993,CA,BMTCB,3.1321880074070525,Biomass total consumption
+933,1993,CA,GETCB,2.512081147479864,Geothermal energy total consumption.
+934,1993,CA,NGTCB,35.732519550017784,Natural gas total consumption (including supplemental gaseous fuels).
+935,1993,CA,PMTCB,51.501580286571645,All petroleum products total consumption excluding fuel ethanol.
+936,1993,CA,SOTCB,0.39862170548923087,Photovoltaic and solar thermal energy total consumption.
+937,1993,CA,NUETB,5.3559532505450544,Electricity produced from nuclear power.
+938,1993,NM,CLTCB,36.67213631005696,Coal total consumption.
+939,1993,NM,BMTCB,0.6917056182093995,Biomass total consumption
+940,1993,NM,GETCB,0.017354020921739276,Geothermal energy total consumption.
+941,1993,NM,NGTCB,30.529135615670683,Natural gas total consumption (including supplemental gaseous fuels).
+942,1993,NM,PMTCB,32.00871734574533,All petroleum products total consumption excluding fuel ethanol.
+943,1993,NM,SOTCB,0.08095108939588293,Photovoltaic and solar thermal energy total consumption.
+944,1993,NM,NUETB,0.0,Electricity produced from nuclear power.
+945,1993,TX,CLTCB,14.102205870010161,Coal total consumption.
+946,1993,TX,BMTCB,0.971489700102712,Biomass total consumption
+947,1993,TX,GETCB,0.003341423265453386,Geothermal energy total consumption.
+948,1993,TX,NGTCB,38.69046420685559,Natural gas total consumption (including supplemental gaseous fuels).
+949,1993,TX,PMTCB,44.943576600127436,All petroleum products total consumption excluding fuel ethanol.
+950,1993,TX,SOTCB,0.0043471468584135335,Photovoltaic and solar thermal energy total consumption.
+951,1993,TX,NUETB,1.2845750527802384,Electricity produced from nuclear power.
+952,1994,AZ,CLTCB,33.784346221557136,Coal total consumption.
+953,1994,AZ,BMTCB,1.190692949007486,Biomass total consumption
+954,1994,AZ,GETCB,0.01984988092320041,Geothermal energy total consumption.
+955,1994,AZ,NGTCB,11.731870337205539,Natural gas total consumption (including supplemental gaseous fuels).
+956,1994,AZ,PMTCB,32.61029056044605,All petroleum products total consumption excluding fuel ethanol.
+957,1994,AZ,SOTCB,0.32953276021796885,Photovoltaic and solar thermal energy total consumption.
+958,1994,AZ,NUETB,20.333417290642615,Electricity produced from nuclear power.
+959,1994,CA,CLTCB,1.3078651602676166,Coal total consumption.
+960,1994,CA,BMTCB,3.027215763161246,Biomass total consumption
+961,1994,CA,GETCB,2.20471920223985,Geothermal energy total consumption.
+962,1994,CA,NGTCB,36.08751950079711,Natural gas total consumption (including supplemental gaseous fuels).
+963,1994,CA,PMTCB,51.530045747952144,All petroleum products total consumption excluding fuel ethanol.
+964,1994,CA,SOTCB,0.3899096711184442,Photovoltaic and solar thermal energy total consumption.
+965,1994,CA,NUETB,5.452724954463598,Electricity produced from nuclear power.
+966,1994,NM,CLTCB,38.12530185812965,Coal total consumption.
+967,1994,NM,BMTCB,0.7156515877095193,Biomass total consumption
+968,1994,NM,GETCB,0.01978953488421536,Geothermal energy total consumption.
+969,1994,NM,NGTCB,30.33194540935524,Natural gas total consumption (including supplemental gaseous fuels).
+970,1994,NM,PMTCB,30.724588105608706,All petroleum products total consumption excluding fuel ethanol.
+971,1994,NM,SOTCB,0.08272350431268079,Photovoltaic and solar thermal energy total consumption.
+972,1994,NM,NUETB,0.0,Electricity produced from nuclear power.
+973,1994,TX,CLTCB,13.309402071294416,Coal total consumption.
+974,1994,TX,BMTCB,0.9463526143513152,Biomass total consumption
+975,1994,TX,GETCB,0.003264028687457972,Geothermal energy total consumption.
+976,1994,TX,NGTCB,37.21580626784935,Natural gas total consumption (including supplemental gaseous fuels).
+977,1994,TX,PMTCB,45.64262143965189,All petroleum products total consumption excluding fuel ethanol.
+978,1994,TX,SOTCB,0.004511266751663922,Photovoltaic and solar thermal energy total consumption.
+979,1994,TX,NUETB,2.8780423114139224,Electricity produced from nuclear power.
+980,1995,AZ,CLTCB,28.97871435223004,Coal total consumption.
+981,1995,AZ,BMTCB,1.407416875938901,Biomass total consumption
+982,1995,AZ,GETCB,0.02001744049237532,Geothermal energy total consumption.
+983,1995,AZ,NGTCB,10.813029381437175,Natural gas total consumption (including supplemental gaseous fuels).
+984,1995,AZ,PMTCB,34.4857260081744,All petroleum products total consumption excluding fuel ethanol.
+985,1995,AZ,SOTCB,0.33335818005371926,Photovoltaic and solar thermal energy total consumption.
+986,1995,AZ,NUETB,23.961737761673387,Electricity produced from nuclear power.
+987,1995,CA,CLTCB,1.364681960226847,Coal total consumption.
+988,1995,CA,BMTCB,2.9451043565444657,Biomass total consumption
+989,1995,CA,GETCB,1.942995220193786,Geothermal energy total consumption.
+990,1995,CA,NGTCB,34.14743924784496,Natural gas total consumption (including supplemental gaseous fuels).
+991,1995,CA,PMTCB,54.045077405403774,All petroleum products total consumption excluding fuel ethanol.
+992,1995,CA,SOTCB,0.4115359545623368,Photovoltaic and solar thermal energy total consumption.
+993,1995,CA,NUETB,5.143165855223849,Electricity produced from nuclear power.
+994,1995,NM,CLTCB,38.80821900738638,Coal total consumption.
+995,1995,NM,BMTCB,0.8915941263883777,Biomass total consumption
+996,1995,NM,GETCB,0.022355026187389885,Geothermal energy total consumption.
+997,1995,NM,NGTCB,30.94822321180248,Natural gas total consumption (including supplemental gaseous fuels).
+998,1995,NM,PMTCB,29.244931897853803,All petroleum products total consumption excluding fuel ethanol.
+999,1995,NM,SOTCB,0.08467673038157082,Photovoltaic and solar thermal energy total consumption.
+1000,1995,NM,NUETB,0.0,Electricity produced from nuclear power.
+1001,1995,TX,CLTCB,12.821288454793262,Coal total consumption.
+1002,1995,TX,BMTCB,0.9741169655670506,Biomass total consumption
+1003,1995,TX,GETCB,0.0034788476482760624,Geothermal energy total consumption.
+1004,1995,TX,NGTCB,37.929689011288275,Natural gas total consumption (including supplemental gaseous fuels).
+1005,1995,TX,PMTCB,44.69851925595967,All petroleum products total consumption excluding fuel ethanol.
+1006,1995,TX,SOTCB,0.004573177775885863,Photovoltaic and solar thermal energy total consumption.
+1007,1995,TX,NUETB,3.5683342869675796,Electricity produced from nuclear power.
+1008,1996,AZ,CLTCB,27.917702002245807,Coal total consumption.
+1009,1996,AZ,BMTCB,1.1976187058495409,Biomass total consumption
+1010,1996,AZ,GETCB,0.019318721783357976,Geothermal energy total consumption.
+1011,1996,AZ,NGTCB,10.200424791351463,Natural gas total consumption (including supplemental gaseous fuels).
+1012,1996,AZ,PMTCB,35.67645911992671,All petroleum products total consumption excluding fuel ethanol.
+1013,1996,AZ,SOTCB,0.32289428804505355,Photovoltaic and solar thermal energy total consumption.
+1014,1996,AZ,NUETB,24.665582370798067,Electricity produced from nuclear power.
+1015,1996,CA,CLTCB,1.2994773149472034,Coal total consumption.
+1016,1996,CA,BMTCB,2.832777926935471,Biomass total consumption
+1017,1996,CA,GETCB,2.0979164020369008,Geothermal energy total consumption.
+1018,1996,CA,NGTCB,32.64174372810433,Natural gas total consumption (including supplemental gaseous fuels).
+1019,1996,CA,PMTCB,54.91974322320626,All petroleum products total consumption excluding fuel ethanol.
+1020,1996,CA,SOTCB,0.41473754815562947,Photovoltaic and solar thermal energy total consumption.
+1021,1996,CA,NUETB,5.793603856614195,Electricity produced from nuclear power.
+1022,1996,NM,CLTCB,37.80892407217228,Coal total consumption.
+1023,1996,NM,BMTCB,0.7683302839852901,Biomass total consumption
+1024,1996,NM,GETCB,0.02175420430624318,Geothermal energy total consumption.
+1025,1996,NM,NGTCB,31.633768042973422,Natural gas total consumption (including supplemental gaseous fuels).
+1026,1996,NM,PMTCB,29.687131827087192,All petroleum products total consumption excluding fuel ethanol.
+1027,1996,NM,SOTCB,0.08009156947559223,Photovoltaic and solar thermal energy total consumption.
+1028,1996,NM,NUETB,0.0,Electricity produced from nuclear power.
+1029,1996,TX,CLTCB,12.998594984680526,Coal total consumption.
+1030,1996,TX,BMTCB,0.8786015003988134,Biomass total consumption
+1031,1996,TX,GETCB,0.003650210002179329,Geothermal energy total consumption.
+1032,1996,TX,NGTCB,37.35022886132675,Natural gas total consumption (including supplemental gaseous fuels).
+1033,1996,TX,PMTCB,45.477568811914324,All petroleum products total consumption excluding fuel ethanol.
+1034,1996,TX,SOTCB,0.004417158864211316,Photovoltaic and solar thermal energy total consumption.
+1035,1996,TX,NUETB,3.286938472813193,Electricity produced from nuclear power.
+1036,1997,AZ,CLTCB,29.014901556978167,Coal total consumption.
+1037,1997,AZ,BMTCB,1.2882602317273957,Biomass total consumption
+1038,1997,AZ,GETCB,0.018650128609481568,Geothermal energy total consumption.
+1039,1997,AZ,NGTCB,10.793238713835695,Natural gas total consumption (including supplemental gaseous fuels).
+1040,1997,AZ,PMTCB,34.44580765538033,All petroleum products total consumption excluding fuel ethanol.
+1041,1997,AZ,SOTCB,0.3073867946779876,Photovoltaic and solar thermal energy total consumption.
+1042,1997,AZ,NUETB,24.131754918790946,Electricity produced from nuclear power.
+1043,1997,CA,CLTCB,1.330297928118343,Coal total consumption.
+1044,1997,CA,BMTCB,2.556869986556468,Biomass total consumption
+1045,1997,CA,GETCB,2.1279888611583453,Geothermal energy total consumption.
+1046,1997,CA,NGTCB,35.168813382688526,Natural gas total consumption (including supplemental gaseous fuels).
+1047,1997,CA,PMTCB,53.25884218476807,All petroleum products total consumption excluding fuel ethanol.
+1048,1997,CA,SOTCB,0.4035500583617917,Photovoltaic and solar thermal energy total consumption.
+1049,1997,CA,NUETB,5.153637598348465,Electricity produced from nuclear power.
+1050,1997,NM,CLTCB,36.558034928080865,Coal total consumption.
+1051,1997,NM,BMTCB,0.8113001500025222,Biomass total consumption
+1052,1997,NM,GETCB,0.022250858910987433,Geothermal energy total consumption.
+1053,1997,NM,NGTCB,33.18425707705603,Natural gas total consumption (including supplemental gaseous fuels).
+1054,1997,NM,PMTCB,29.353131166102624,All petroleum products total consumption excluding fuel ethanol.
+1055,1997,NM,SOTCB,0.07102581984697709,Photovoltaic and solar thermal energy total consumption.
+1056,1997,NM,NUETB,0.0,Electricity produced from nuclear power.
+1057,1997,TX,CLTCB,12.931322789401298,Coal total consumption.
+1058,1997,TX,BMTCB,0.9025552865627315,Biomass total consumption
+1059,1997,TX,GETCB,0.0038276462567974237,Geothermal energy total consumption.
+1060,1997,TX,NGTCB,35.92417665028953,Natural gas total consumption (including supplemental gaseous fuels).
+1061,1997,TX,PMTCB,46.90565157034307,All petroleum products total consumption excluding fuel ethanol.
+1062,1997,TX,SOTCB,0.004290396558235245,Photovoltaic and solar thermal energy total consumption.
+1063,1997,TX,NUETB,3.3281756605883346,Electricity produced from nuclear power.
+1064,1998,AZ,CLTCB,28.458058509237965,Coal total consumption.
+1065,1998,AZ,BMTCB,0.9052256724765695,Biomass total consumption
+1066,1998,AZ,GETCB,0.0175110982929766,Geothermal energy total consumption.
+1067,1998,AZ,NGTCB,11.852554709223554,Natural gas total consumption (including supplemental gaseous fuels).
+1068,1998,AZ,PMTCB,35.09320893800793,All petroleum products total consumption excluding fuel ethanol.
+1069,1998,AZ,SOTCB,0.28359598900696953,Photovoltaic and solar thermal energy total consumption.
+1070,1998,AZ,NUETB,23.38984508375403,Electricity produced from nuclear power.
+1071,1998,CA,CLTCB,1.0202838921485298,Coal total consumption.
+1072,1998,CA,BMTCB,2.265714645898629,Biomass total consumption
+1073,1998,CA,GETCB,2.0578916640969314,Geothermal energy total consumption.
+1074,1998,CA,NGTCB,37.301632374527145,Natural gas total consumption (including supplemental gaseous fuels).
+1075,1998,CA,PMTCB,51.37819068869545,All petroleum products total consumption excluding fuel ethanol.
+1076,1998,CA,SOTCB,0.3791198292555792,Photovoltaic and solar thermal energy total consumption.
+1077,1998,CA,NUETB,5.597166905377727,Electricity produced from nuclear power.
+1078,1998,NM,CLTCB,37.127262285220795,Coal total consumption.
+1079,1998,NM,BMTCB,0.8861026021360894,Biomass total consumption
+1080,1998,NM,GETCB,0.023590755176419967,Geothermal energy total consumption.
+1081,1998,NM,NGTCB,30.866880027671485,Natural gas total consumption (including supplemental gaseous fuels).
+1082,1998,NM,PMTCB,31.027128831005612,All petroleum products total consumption excluding fuel ethanol.
+1083,1998,NM,SOTCB,0.06903549878959127,Photovoltaic and solar thermal energy total consumption.
+1084,1998,NM,NUETB,0.0,Electricity produced from nuclear power.
+1085,1998,TX,CLTCB,12.438364676907996,Coal total consumption.
+1086,1998,TX,BMTCB,0.8284671581627333,Biomass total consumption
+1087,1998,TX,GETCB,0.004313843843362103,Geothermal energy total consumption.
+1088,1998,TX,NGTCB,36.58135849139061,Natural gas total consumption (including supplemental gaseous fuels).
+1089,1998,TX,PMTCB,46.751561748906134,All petroleum products total consumption excluding fuel ethanol.
+1090,1998,TX,SOTCB,0.004766058250496971,Photovoltaic and solar thermal energy total consumption.
+1091,1998,TX,NUETB,3.3911680225386562,Electricity produced from nuclear power.
+1092,1999,AZ,CLTCB,28.623560439829234,Coal total consumption.
+1093,1999,AZ,BMTCB,0.9028247274969949,Biomass total consumption
+1094,1999,AZ,GETCB,0.020314487385472185,Geothermal energy total consumption.
+1095,1999,AZ,NGTCB,11.908332460600562,Natural gas total consumption (including supplemental gaseous fuels).
+1096,1999,AZ,PMTCB,35.719293716823,All petroleum products total consumption excluding fuel ethanol.
+1097,1999,AZ,SOTCB,0.26518473274462573,Photovoltaic and solar thermal energy total consumption.
+1098,1999,AZ,NUETB,22.560489435120104,Electricity produced from nuclear power.
+1099,1999,CA,CLTCB,1.0611283080110574,Coal total consumption.
+1100,1999,CA,BMTCB,2.388557548422567,Biomass total consumption
+1101,1999,CA,GETCB,2.0647388605249404,Geothermal energy total consumption.
+1102,1999,CA,NGTCB,36.306495688938575,Natural gas total consumption (including supplemental gaseous fuels).
+1103,1999,CA,PMTCB,52.49174670985383,All petroleum products total consumption excluding fuel ethanol.
+1104,1999,CA,SOTCB,0.3664367399114583,Photovoltaic and solar thermal energy total consumption.
+1105,1999,CA,NUETB,5.320896144337583,Electricity produced from nuclear power.
+1106,1999,NM,CLTCB,37.73608121745996,Coal total consumption.
+1107,1999,NM,BMTCB,0.8480551813666982,Biomass total consumption
+1108,1999,NM,GETCB,0.08147116257531756,Geothermal energy total consumption.
+1109,1999,NM,NGTCB,29.281033270201046,Natural gas total consumption (including supplemental gaseous fuels).
+1110,1999,NM,PMTCB,31.98885442606263,All petroleum products total consumption excluding fuel ethanol.
+1111,1999,NM,SOTCB,0.06450474233435101,Photovoltaic and solar thermal energy total consumption.
+1112,1999,NM,NUETB,0.0,Electricity produced from nuclear power.
+1113,1999,TX,CLTCB,13.121978404449653,Coal total consumption.
+1114,1999,TX,BMTCB,0.7126951097784439,Biomass total consumption
+1115,1999,TX,GETCB,0.004818626988259492,Geothermal energy total consumption.
+1116,1999,TX,NGTCB,35.48023888371434,Natural gas total consumption (including supplemental gaseous fuels).
+1117,1999,TX,PMTCB,47.381571573659905,All petroleum products total consumption excluding fuel ethanol.
+1118,1999,TX,SOTCB,0.005046292966240286,Photovoltaic and solar thermal energy total consumption.
+1119,1999,TX,NUETB,3.2936511084431572,Electricity produced from nuclear power.
+1120,2000,AZ,CLTCB,29.11359268296596,Coal total consumption.
+1121,2000,AZ,BMTCB,0.9150535336252567,Biomass total consumption
+1122,2000,AZ,GETCB,0.019251656273745206,Geothermal energy total consumption.
+1123,2000,AZ,NGTCB,14.000641008125006,Natural gas total consumption (including supplemental gaseous fuels).
+1124,2000,AZ,PMTCB,34.40239074334536,All petroleum products total consumption excluding fuel ethanol.
+1125,2000,AZ,SOTCB,0.2364392057633707,Photovoltaic and solar thermal energy total consumption.
+1126,2000,AZ,NUETB,21.312631169901294,Electricity produced from nuclear power.
+1127,2000,CA,CLTCB,1.0299727779698908,Coal total consumption.
+1128,2000,CA,BMTCB,2.427220902429906,Biomass total consumption
+1129,2000,CA,GETCB,1.877175407581016,Geothermal energy total consumption.
+1130,2000,CA,NGTCB,36.13774096111405,Natural gas total consumption (including supplemental gaseous fuels).
+1131,2000,CA,PMTCB,52.790926975812205,All petroleum products total consumption excluding fuel ethanol.
+1132,2000,CA,SOTCB,0.34014005712964496,Photovoltaic and solar thermal energy total consumption.
+1133,2000,CA,NUETB,5.3968229179633145,Electricity produced from nuclear power.
+1134,2000,NM,CLTCB,37.34817621736305,Coal total consumption.
+1135,2000,NM,BMTCB,0.8952420450788087,Biomass total consumption
+1136,2000,NM,GETCB,0.08409403552267282,Geothermal energy total consumption.
+1137,2000,NM,NGTCB,31.66430089364708,Natural gas total consumption (including supplemental gaseous fuels).
+1138,2000,NM,PMTCB,29.952884375064077,All petroleum products total consumption excluding fuel ethanol.
+1139,2000,NM,SOTCB,0.055302433324294596,Photovoltaic and solar thermal energy total consumption.
+1140,2000,NM,NUETB,0.0,Electricity produced from nuclear power.
+1141,2000,TX,CLTCB,12.876998149560382,Coal total consumption.
+1142,2000,TX,BMTCB,0.7249697767503683,Biomass total consumption
+1143,2000,TX,GETCB,0.004674426052179253,Geothermal energy total consumption.
+1144,2000,TX,NGTCB,37.84543134145933,Natural gas total consumption (including supplemental gaseous fuels).
+1145,2000,TX,PMTCB,45.28550106359311,All petroleum products total consumption excluding fuel ethanol.
+1146,2000,TX,SOTCB,0.00472031910138044,Photovoltaic and solar thermal energy total consumption.
+1147,2000,TX,NUETB,3.2577049234832622,Electricity produced from nuclear power.
+1148,2001,AZ,CLTCB,28.295242416047884,Coal total consumption.
+1149,2001,AZ,BMTCB,0.6924456959495139,Biomass total consumption
+1150,2001,AZ,GETCB,0.01916497308089516,Geothermal energy total consumption.
+1151,2001,AZ,NGTCB,16.310514810931593,Natural gas total consumption (including supplemental gaseous fuels).
+1152,2001,AZ,PMTCB,34.44569790137823,All petroleum products total consumption excluding fuel ethanol.
+1153,2001,AZ,SOTCB,0.22011238771960379,Photovoltaic and solar thermal energy total consumption.
+1154,2001,AZ,NUETB,20.016821814892293,Electricity produced from nuclear power.
+1155,2001,CA,CLTCB,0.987915595055257,Coal total consumption.
+1156,2001,CA,BMTCB,2.3900352984896878,Biomass total consumption
+1157,2001,CA,GETCB,1.8651316573958294,Geothermal energy total consumption.
+1158,2001,CA,NGTCB,36.608147133414036,Natural gas total consumption (including supplemental gaseous fuels).
+1159,2001,CA,PMTCB,52.76086713315726,All petroleum products total consumption excluding fuel ethanol.
+1160,2001,CA,SOTCB,0.3359894726198341,Photovoltaic and solar thermal energy total consumption.
+1161,2001,CA,NUETB,5.051913709868093,Electricity produced from nuclear power.
+1162,2001,NM,CLTCB,37.011384150075585,Coal total consumption.
+1163,2001,NM,BMTCB,0.5402405644859151,Biomass total consumption
+1164,2001,NM,GETCB,0.09192565889475014,Geothermal energy total consumption.
+1165,2001,NM,NGTCB,32.34347725159514,Natural gas total consumption (including supplemental gaseous fuels).
+1166,2001,NM,PMTCB,29.963422131402133,All petroleum products total consumption excluding fuel ethanol.
+1167,2001,NM,SOTCB,0.04955024354647344,Photovoltaic and solar thermal energy total consumption.
+1168,2001,NM,NUETB,0.0,Electricity produced from nuclear power.
+1169,2001,TX,CLTCB,12.661287893085332,Coal total consumption.
+1170,2001,TX,BMTCB,0.6459580751271639,Biomass total consumption
+1171,2001,TX,GETCB,0.005419082136173729,Geothermal energy total consumption.
+1172,2001,TX,NGTCB,37.228904751808386,Natural gas total consumption (including supplemental gaseous fuels).
+1173,2001,TX,PMTCB,46.07379594307158,All petroleum products total consumption excluding fuel ethanol.
+1174,2001,TX,SOTCB,0.004833475851984328,Photovoltaic and solar thermal energy total consumption.
+1175,2001,TX,NUETB,3.3798007789193862,Electricity produced from nuclear power.
+1176,2002,AZ,CLTCB,26.653975384050167,Coal total consumption.
+1177,2002,AZ,BMTCB,0.6097706019442913,Biomass total consumption
+1178,2002,AZ,GETCB,0.01925874705197217,Geothermal energy total consumption.
+1179,2002,AZ,NGTCB,16.737293095867,Natural gas total consumption (including supplemental gaseous fuels).
+1180,2002,AZ,PMTCB,34.643868888016605,All petroleum products total consumption excluding fuel ethanol.
+1181,2002,AZ,SOTCB,0.2043206388855698,Photovoltaic and solar thermal energy total consumption.
+1182,2002,AZ,NUETB,21.131512644184394,Electricity produced from nuclear power.
+1183,2002,CA,CLTCB,1.0266019698987165,Coal total consumption.
+1184,2002,CA,BMTCB,2.5144329434962756,Biomass total consumption
+1185,2002,CA,GETCB,1.9828324917874098,Geothermal energy total consumption.
+1186,2002,CA,NGTCB,33.999973010662075,Natural gas total consumption (including supplemental gaseous fuels).
+1187,2002,CA,PMTCB,54.88577311142379,All petroleum products total consumption excluding fuel ethanol.
+1188,2002,CA,SOTCB,0.33042859845804584,Photovoltaic and solar thermal energy total consumption.
+1189,2002,CA,NUETB,5.259957874273689,Electricity produced from nuclear power.
+1190,2002,NM,CLTCB,37.1466129536758,Coal total consumption.
+1191,2002,NM,BMTCB,0.5753277669404153,Biomass total consumption
+1192,2002,NM,GETCB,0.09777835110943625,Geothermal energy total consumption.
+1193,2002,NM,NGTCB,30.0291312720126,Natural gas total consumption (including supplemental gaseous fuels).
+1194,2002,NM,PMTCB,32.10471862505476,All petroleum products total consumption excluding fuel ethanol.
+1195,2002,NM,SOTCB,0.04643103120699407,Photovoltaic and solar thermal energy total consumption.
+1196,2002,NM,NUETB,0.0,Electricity produced from nuclear power.
+1197,2002,TX,CLTCB,12.877256758105174,Coal total consumption.
+1198,2002,TX,BMTCB,0.6955587915918188,Biomass total consumption
+1199,2002,TX,GETCB,0.00576447899384746,Geothermal energy total consumption.
+1200,2002,TX,NGTCB,36.95572113640834,Natural gas total consumption (including supplemental gaseous fuels).
+1201,2002,TX,PMTCB,46.371714839284,All petroleum products total consumption excluding fuel ethanol.
+1202,2002,TX,SOTCB,0.004728288062528061,Photovoltaic and solar thermal energy total consumption.
+1203,2002,TX,NUETB,3.089255707554285,Electricity produced from nuclear power.
+1204,2003,AZ,CLTCB,26.591287313155426,Coal total consumption.
+1205,2003,AZ,BMTCB,0.6251080075323481,Biomass total consumption
+1206,2003,AZ,GETCB,0.015346749470875323,Geothermal energy total consumption.
+1207,2003,AZ,NGTCB,18.030073660719953,Natural gas total consumption (including supplemental gaseous fuels).
+1208,2003,AZ,PMTCB,35.05802198005462,All petroleum products total consumption excluding fuel ethanol.
+1209,2003,AZ,SOTCB,0.19845813163539783,Photovoltaic and solar thermal energy total consumption.
+1210,2003,AZ,NUETB,19.48170415743137,Electricity produced from nuclear power.
+1211,2003,CA,CLTCB,1.0058255047959896,Coal total consumption.
+1212,2003,CA,BMTCB,2.9799879872602153,Biomass total consumption
+1213,2003,CA,GETCB,1.9519700523341403,Geothermal energy total consumption.
+1214,2003,CA,NGTCB,33.54812888015526,Natural gas total consumption (including supplemental gaseous fuels).
+1215,2003,CA,PMTCB,54.82438707873036,All petroleum products total consumption excluding fuel ethanol.
+1216,2003,CA,SOTCB,0.3192074797871036,Photovoltaic and solar thermal energy total consumption.
+1217,2003,CA,NUETB,5.37049301693693,Electricity produced from nuclear power.
+1218,2003,NM,CLTCB,38.93131827104288,Coal total consumption.
+1219,2003,NM,BMTCB,0.5479928597375135,Biomass total consumption
+1220,2003,NM,GETCB,0.07165947229326469,Geothermal energy total consumption.
+1221,2003,NM,NGTCB,28.687670919763008,Natural gas total consumption (including supplemental gaseous fuels).
+1222,2003,NM,PMTCB,31.721124297050718,All petroleum products total consumption excluding fuel ethanol.
+1223,2003,NM,SOTCB,0.04023418011260877,Photovoltaic and solar thermal energy total consumption.
+1224,2003,NM,NUETB,0.0,Electricity produced from nuclear power.
+1225,2003,TX,CLTCB,13.538912988167812,Coal total consumption.
+1226,2003,TX,BMTCB,0.6825374007767395,Biomass total consumption
+1227,2003,TX,GETCB,0.007714604363744195,Geothermal energy total consumption.
+1228,2003,TX,NGTCB,35.28499547333489,Natural gas total consumption (including supplemental gaseous fuels).
+1229,2003,TX,PMTCB,47.539769522405,All petroleum products total consumption excluding fuel ethanol.
+1230,2003,TX,SOTCB,0.004831775183080818,Photovoltaic and solar thermal energy total consumption.
+1231,2003,TX,NUETB,2.941238235768735,Electricity produced from nuclear power.
+1232,2004,AZ,CLTCB,25.79091767471196,Coal total consumption.
+1233,2004,AZ,BMTCB,0.5863241914616043,Biomass total consumption
+1234,2004,AZ,GETCB,0.01545304980243848,Geothermal energy total consumption.
+1235,2004,AZ,NGTCB,21.59875645927625,Natural gas total consumption (including supplemental gaseous fuels).
+1236,2004,AZ,PMTCB,34.05617621425057,All petroleum products total consumption excluding fuel ethanol.
+1237,2004,AZ,SOTCB,0.18118571629013955,Photovoltaic and solar thermal energy total consumption.
+1238,2004,AZ,NUETB,17.77118669420705,Electricity produced from nuclear power.
+1239,2004,CA,CLTCB,0.9919601577159487,Coal total consumption.
+1240,2004,CA,BMTCB,3.2883677845285906,Biomass total consumption
+1241,2004,CA,GETCB,1.9192604555150916,Geothermal energy total consumption.
+1242,2004,CA,NGTCB,35.44440936594731,Natural gas total consumption (including supplemental gaseous fuels).
+1243,2004,CA,PMTCB,53.49145929370458,All petroleum products total consumption excluding fuel ethanol.
+1244,2004,CA,SOTCB,0.3213877108895735,Photovoltaic and solar thermal energy total consumption.
+1245,2004,CA,NUETB,4.543155231698917,Electricity produced from nuclear power.
+1246,2004,NM,CLTCB,38.53157202114382,Coal total consumption.
+1247,2004,NM,BMTCB,0.5349538600547951,Biomass total consumption
+1248,2004,NM,GETCB,0.07694286862962497,Geothermal energy total consumption.
+1249,2004,NM,NGTCB,28.53769452002694,Natural gas total consumption (including supplemental gaseous fuels).
+1250,2004,NM,PMTCB,32.2853460020779,All petroleum products total consumption excluding fuel ethanol.
+1251,2004,NM,SOTCB,0.03349072806690227,Photovoltaic and solar thermal energy total consumption.
+1252,2004,NM,NUETB,0.0,Electricity produced from nuclear power.
+1253,2004,TX,CLTCB,13.574289352965257,Coal total consumption.
+1254,2004,TX,BMTCB,0.6439888886587687,Biomass total consumption
+1255,2004,TX,GETCB,0.008403261909038728,Geothermal energy total consumption.
+1256,2004,TX,NGTCB,33.7522444237705,Natural gas total consumption (including supplemental gaseous fuels).
+1257,2004,TX,PMTCB,48.49662556526201,All petroleum products total consumption excluding fuel ethanol.
+1258,2004,TX,SOTCB,0.0047164242460411895,Photovoltaic and solar thermal energy total consumption.
+1259,2004,TX,NUETB,3.5197320831883943,Electricity produced from nuclear power.
+1260,2005,AZ,CLTCB,26.236455241834605,Coal total consumption.
+1261,2005,AZ,BMTCB,1.5383650054406433,Biomass total consumption
+1262,2005,AZ,GETCB,0.017326515881820923,Geothermal energy total consumption.
+1263,2005,AZ,NGTCB,20.165277991081357,Natural gas total consumption (including supplemental gaseous fuels).
+1264,2005,AZ,PMTCB,35.36682437939129,All petroleum products total consumption excluding fuel ethanol.
+1265,2005,AZ,SOTCB,0.1831414469845539,Photovoltaic and solar thermal energy total consumption.
+1266,2005,AZ,NUETB,16.492609419385733,Electricity produced from nuclear power.
+1267,2005,CA,CLTCB,0.975022857803386,Coal total consumption.
+1268,2005,CA,BMTCB,3.260981744489339,Biomass total consumption
+1269,2005,CA,GETCB,1.9143361362167055,Geothermal energy total consumption.
+1270,2005,CA,NGTCB,33.32580909501007,Natural gas total consumption (including supplemental gaseous fuels).
+1271,2005,CA,PMTCB,54.748716216619464,All petroleum products total consumption excluding fuel ethanol.
+1272,2005,CA,SOTCB,0.31865858837083627,Photovoltaic and solar thermal energy total consumption.
+1273,2005,CA,NUETB,5.4564753614901935,Electricity produced from nuclear power.
+1274,2005,NM,CLTCB,39.00495941180673,Coal total consumption.
+1275,2005,NM,BMTCB,1.597434489111213,Biomass total consumption
+1276,2005,NM,GETCB,0.08467096414542348,Geothermal energy total consumption.
+1277,2005,NM,NGTCB,27.648317132394816,Natural gas total consumption (including supplemental gaseous fuels).
+1278,2005,NM,PMTCB,31.638996136023934,All petroleum products total consumption excluding fuel ethanol.
+1279,2005,NM,SOTCB,0.02562186651790112,Photovoltaic and solar thermal energy total consumption.
+1280,2005,NM,NUETB,0.0,Electricity produced from nuclear power.
+1281,2005,TX,CLTCB,14.268496526199053,Coal total consumption.
+1282,2005,TX,BMTCB,0.7147085322885829,Biomass total consumption
+1283,2005,TX,GETCB,0.010176682343183953,Geothermal energy total consumption.
+1284,2005,TX,NGTCB,31.774757954681615,Natural gas total consumption (including supplemental gaseous fuels).
+1285,2005,TX,PMTCB,49.729668098604826,All petroleum products total consumption excluding fuel ethanol.
+1286,2005,TX,SOTCB,0.004939770067278708,Photovoltaic and solar thermal energy total consumption.
+1287,2005,TX,NUETB,3.4972524358154575,Electricity produced from nuclear power.
+1288,2006,AZ,CLTCB,25.95755640673717,Coal total consumption.
+1289,2006,AZ,BMTCB,1.513211026836608,Biomass total consumption
+1290,2006,AZ,GETCB,0.01721906919171222,Geothermal energy total consumption.
+1291,2006,AZ,NGTCB,21.946309464810316,Natural gas total consumption (including supplemental gaseous fuels).
+1292,2006,AZ,PMTCB,35.3135562225549,All petroleum products total consumption excluding fuel ethanol.
+1293,2006,AZ,SOTCB,0.1943259205499336,Photovoltaic and solar thermal energy total consumption.
+1294,2006,AZ,NUETB,15.05782188931937,Electricity produced from nuclear power.
+1295,2006,CA,CLTCB,0.9628734106482875,Coal total consumption.
+1296,2006,CA,BMTCB,3.157062678459376,Biomass total consumption
+1297,2006,CA,GETCB,1.858009384137185,Geothermal energy total consumption.
+1298,2006,CA,NGTCB,34.13662603410966,Natural gas total consumption (including supplemental gaseous fuels).
+1299,2006,CA,PMTCB,54.760680523936585,All petroleum products total consumption excluding fuel ethanol.
+1300,2006,CA,SOTCB,0.332831398177522,Photovoltaic and solar thermal energy total consumption.
+1301,2006,CA,NUETB,4.791916570531382,Electricity produced from nuclear power.
+1302,2006,NM,CLTCB,38.262754663000266,Coal total consumption.
+1303,2006,NM,BMTCB,1.5718453292985612,Biomass total consumption
+1304,2006,NM,GETCB,0.0843703303090548,Geothermal energy total consumption.
+1305,2006,NM,NGTCB,27.5469029686872,Natural gas total consumption (including supplemental gaseous fuels).
+1306,2006,NM,PMTCB,32.50802069444792,All petroleum products total consumption excluding fuel ethanol.
+1307,2006,NM,SOTCB,0.02610601425698688,Photovoltaic and solar thermal energy total consumption.
+1308,2006,NM,NUETB,0.0,Electricity produced from nuclear power.
+1309,2006,TX,CLTCB,13.648695610557057,Coal total consumption.
+1310,2006,TX,BMTCB,0.9806444732072869,Biomass total consumption
+1311,2006,TX,GETCB,0.010986018435446662,Geothermal energy total consumption.
+1312,2006,TX,NGTCB,30.085308349898977,Natural gas total consumption (including supplemental gaseous fuels).
+1313,2006,TX,PMTCB,51.61946155397168,All petroleum products total consumption excluding fuel ethanol.
+1314,2006,TX,SOTCB,0.004908415816538609,Photovoltaic and solar thermal energy total consumption.
+1315,2006,TX,NUETB,3.6499955781130162,Electricity produced from nuclear power.
+1316,2007,AZ,CLTCB,25.286600458350627,Coal total consumption.
+1317,2007,AZ,BMTCB,1.6762630636835534,Biomass total consumption
+1318,2007,AZ,GETCB,0.01738743919997465,Geothermal energy total consumption.
+1319,2007,AZ,NGTCB,23.18002357005069,Natural gas total consumption (including supplemental gaseous fuels).
+1320,2007,AZ,PMTCB,33.445663994599656,All petroleum products total consumption excluding fuel ethanol.
+1321,2007,AZ,SOTCB,0.20153413287710636,Photovoltaic and solar thermal energy total consumption.
+1322,2007,AZ,NUETB,16.192527341238407,Electricity produced from nuclear power.
+1323,2007,CA,CLTCB,0.9362746053017368,Coal total consumption.
+1324,2007,CA,BMTCB,3.173604891048597,Biomass total consumption
+1325,2007,CA,GETCB,1.8388005334251067,Geothermal energy total consumption.
+1326,2007,CA,NGTCB,34.373107893542716,Natural gas total consumption (including supplemental gaseous fuels).
+1327,2007,CA,PMTCB,54.03418116573015,All petroleum products total consumption excluding fuel ethanol.
+1328,2007,CA,SOTCB,0.35985586774179557,Photovoltaic and solar thermal energy total consumption.
+1329,2007,CA,NUETB,5.284175043209899,Electricity produced from nuclear power.
+1330,2007,NM,CLTCB,35.56755299232702,Coal total consumption.
+1331,2007,NM,BMTCB,1.7384744943083679,Biomass total consumption
+1332,2007,NM,GETCB,0.0879909321302793,Geothermal energy total consumption.
+1333,2007,NM,NGTCB,28.899421296678014,Natural gas total consumption (including supplemental gaseous fuels).
+1334,2007,NM,PMTCB,33.68060967352631,All petroleum products total consumption excluding fuel ethanol.
+1335,2007,NM,SOTCB,0.02595061103001711,Photovoltaic and solar thermal energy total consumption.
+1336,2007,NM,NUETB,0.0,Electricity produced from nuclear power.
+1337,2007,TX,CLTCB,13.518892731311785,Coal total consumption.
+1338,2007,TX,BMTCB,1.1640403294698243,Biomass total consumption
+1339,2007,TX,GETCB,0.012480744352894325,Geothermal energy total consumption.
+1340,2007,TX,NGTCB,30.599589669845173,Natural gas total consumption (including supplemental gaseous fuels).
+1341,2007,TX,PMTCB,51.09220468272282,All petroleum products total consumption excluding fuel ethanol.
+1342,2007,TX,SOTCB,0.005186545725313046,Photovoltaic and solar thermal energy total consumption.
+1343,2007,TX,NUETB,3.607605296572193,Electricity produced from nuclear power.
+1344,2008,AZ,CLTCB,25.86767579399979,Coal total consumption.
+1345,2008,AZ,BMTCB,2.019244491264427,Biomass total consumption
+1346,2008,AZ,GETCB,0.020631569386602374,Geothermal energy total consumption.
+1347,2008,AZ,NGTCB,23.118047906671663,Natural gas total consumption (including supplemental gaseous fuels).
+1348,2008,AZ,PMTCB,31.49595966962596,All petroleum products total consumption excluding fuel ethanol.
+1349,2008,AZ,SOTCB,0.23684123400632387,Photovoltaic and solar thermal energy total consumption.
+1350,2008,AZ,NUETB,17.241599335045226,Electricity produced from nuclear power.
+1351,2008,CA,CLTCB,0.9140900855404193,Coal total consumption.
+1352,2008,CA,BMTCB,3.3099823708659466,Biomass total consumption
+1353,2008,CA,GETCB,1.872289144172301,Geothermal energy total consumption.
+1354,2008,CA,NGTCB,35.88235628983636,Natural gas total consumption (including supplemental gaseous fuels).
+1355,2008,CA,PMTCB,52.674921175367864,All petroleum products total consumption excluding fuel ethanol.
+1356,2008,CA,SOTCB,0.4237994214593018,Photovoltaic and solar thermal energy total consumption.
+1357,2008,CA,NUETB,4.92256151275781,Electricity produced from nuclear power.
+1358,2008,NM,CLTCB,34.942551361002714,Coal total consumption.
+1359,2008,NM,BMTCB,1.9821084789534034,Biomass total consumption
+1360,2008,NM,GETCB,0.0428167665658708,Geothermal energy total consumption.
+1361,2008,NM,NGTCB,30.82733295511451,Natural gas total consumption (including supplemental gaseous fuels).
+1362,2008,NM,PMTCB,32.17406678729294,All petroleum products total consumption excluding fuel ethanol.
+1363,2008,NM,SOTCB,0.031123651070558058,Photovoltaic and solar thermal energy total consumption.
+1364,2008,NM,NUETB,0.0,Electricity produced from nuclear power.
+1365,2008,TX,CLTCB,13.934314564948938,Coal total consumption.
+1366,2008,TX,BMTCB,1.5087996541125082,Biomass total consumption
+1367,2008,TX,GETCB,0.014739373854823717,Geothermal energy total consumption.
+1368,2008,TX,NGTCB,31.73320701838731,Natural gas total consumption (including supplemental gaseous fuels).
+1369,2008,TX,PMTCB,49.1089351994755,All petroleum products total consumption excluding fuel ethanol.
+1370,2008,TX,SOTCB,0.006083772149222551,Photovoltaic and solar thermal energy total consumption.
+1371,2008,TX,NUETB,3.6939204170716966,Electricity produced from nuclear power.
+1372,2009,AZ,CLTCB,24.717181954881354,Coal total consumption.
+1373,2009,AZ,BMTCB,2.1180494328431507,Biomass total consumption
+1374,2009,AZ,GETCB,0.019683472862462265,Geothermal energy total consumption.
+1375,2009,AZ,NGTCB,22.52901583336054,Natural gas total consumption (including supplemental gaseous fuels).
+1376,2009,AZ,PMTCB,31.15051698326487,All petroleum products total consumption excluding fuel ethanol.
+1377,2009,AZ,SOTCB,0.2830297432223317,Photovoltaic and solar thermal energy total consumption.
+1378,2009,AZ,NUETB,19.182522579565294,Electricity produced from nuclear power.
+1379,2009,CA,CLTCB,0.785909097841662,Coal total consumption.
+1380,2009,CA,BMTCB,3.3693489102601024,Biomass total consumption
+1381,2009,CA,GETCB,1.9115826835264211,Geothermal energy total consumption.
+1382,2009,CA,NGTCB,35.86438341376017,Natural gas total consumption (including supplemental gaseous fuels).
+1383,2009,CA,PMTCB,52.61503322138233,All petroleum products total consumption excluding fuel ethanol.
+1384,2009,CA,SOTCB,0.47087277798231036,Photovoltaic and solar thermal energy total consumption.
+1385,2009,CA,NUETB,4.9828698952469965,Electricity produced from nuclear power.
+1386,2009,NM,CLTCB,37.40457094556235,Coal total consumption.
+1387,2009,NM,BMTCB,2.113003541110684,Biomass total consumption
+1388,2009,NM,GETCB,0.03873692356444212,Geothermal energy total consumption.
+1389,2009,NM,NGTCB,30.19125542263621,Natural gas total consumption (including supplemental gaseous fuels).
+1390,2009,NM,PMTCB,30.21791608871413,All petroleum products total consumption excluding fuel ethanol.
+1391,2009,NM,SOTCB,0.03451707841219302,Photovoltaic and solar thermal energy total consumption.
+1392,2009,NM,NUETB,0.0,Electricity produced from nuclear power.
+1393,2009,TX,CLTCB,13.628067440805777,Coal total consumption.
+1394,2009,TX,BMTCB,1.3489602934675033,Biomass total consumption
+1395,2009,TX,GETCB,0.01871561730830248,Geothermal energy total consumption.
+1396,2009,TX,NGTCB,31.500551493031875,Natural gas total consumption (including supplemental gaseous fuels).
+1397,2009,TX,PMTCB,49.5469519403963,All petroleum products total consumption excluding fuel ethanol.
+1398,2009,TX,SOTCB,0.007458509889428907,Photovoltaic and solar thermal energy total consumption.
+1399,2009,TX,NUETB,3.9492947051008196,Electricity produced from nuclear power.
