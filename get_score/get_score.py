@@ -10,13 +10,16 @@ def get_score(data_file='测试数据_0201'):
     }
     for idx, row in data.iterrows():
         keys = [s for s in row['必答关键句'].split('；')]
-        weight = [None] * len(keys)
+        weight = [1] * len(keys)
         params = {
             "question": "",
             "stdAnswer": row['参考答案'],
             "userAnswer": row['客户回答'],
             "strictKeys": [
                 {"sentence": k, "weight": w} for k, w in zip(keys, weight)
+            ],
+            "looseKeys": [
+                {"sentence": None, "weight": 1}
             ]
         }
         res = requests.post(api, data=json.dumps(params), headers=headers).json()
